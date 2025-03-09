@@ -39,7 +39,7 @@ Some key topics covered in the projects include:
 - **ETL (Extract, Transform, Load) Operations**
 
 ## Contribution
-If you’d like to contribute, please refer to the [CONTRIBUTING.md](CONTRIBUTING.md) file for detailed guidelines.
+If you’d like to contribute, please refer to the [CONTRIBUTING.md](CONTRIBUTION.md) file for detailed guidelines.
 
 ## License
 This repository is open-source and available under the [MIT License](LICENSE).

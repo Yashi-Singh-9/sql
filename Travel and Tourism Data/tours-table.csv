@@ -1,0 +1,11 @@
+tour_id,tour_name,destination,duration_in_days,price_in_usd,available_seats
+1,Grand Europe Tour,"France, Italy, Spain",14,2500,10
+2,Majestic USA,"USA (NY, LA, Vegas)",10,3200,15
+3,Wonders of India,"India (Delhi, Agra, Jaipur)",7,1200,20
+4,Best of Japan,"Japan (Tokyo, Kyoto, Osaka)",9,2800,12
+5,Dubai Luxury Escape,"UAE (Dubai, Abu Dhabi)",5,1800,25
+6,African Safari,"Kenya, Tanzania",8,3500,8
+7,Amazing Thailand,"Thailand (Bangkok, Phuket)",6,1500,18
+8,Greek Island Hopper,"Greece (Santorini, Mykonos)",7,2700,10
+9,Brazilian Adventure,"Brazil (Rio, Amazon)",10,2900,14
+10,Arctic Expedition,"Norway, Iceland",12,5000,6

@@ -1,0 +1,13 @@
+tourist_id,first_name,last_name,email,phone,nationality,passport_number
+1,John,Doe,john.doe@example.com,+1 555 1234,USA,A1234567
+2,Maria,Gonzalez,maria.gonzalez@example.com,+34 600 5678,Spain,B9876543
+3,Ahmed,Ali,ahmed.ali@example.com,+971 50 1234,UAE,C4567890
+4,Li,Wei,li.wei@example.com,+86 138 2468,China,D2345678
+5,Emily,Smith,emily.smith@example.com,+44 7911 1234,UK,E1239876
+6,Hiroshi,Takahashi,hiroshil.takahashi@example.com,+81 90 345689,Japan,F1122334
+7,Laura,Johnson,laura.johnson@example.com,+1 555 9875,Canada,G2233445
+8,Carlos,Martinez,carlos.martinez@example.com,+52 55 7654,Mexico,H4567891
+9,Ravi,Kumar,ravi.kumar@example.com,+91 98754 85236,India,I9876543
+10,Priya,Sharma,priya.sharma@example.com,null,India,J1234567
+11,Fatima,Hassan,fatima.hassan@example.com,null,UAE,K6543210
+12,John,Doe,john.doe@example.com,null,USA,L78901234

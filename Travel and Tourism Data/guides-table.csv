@@ -1,0 +1,19 @@
+guide_id,first_name,last_name,languages_spoken,rating,tour_id
+1,Michael,Brown,"English, Spanish",4.8,1
+2,Sofia,Martinez,"Spanish, English",4.7,2
+3,Ahmed,Ali - Farsi,"Arabic, English",4.9,3
+4,Chan,Urian,"Chinese, English",4.6,4
+5,Somchai,Wong,"English, French",4.5,5
+6,Kenji,Tanaka,"Japanese, English",4.8,6
+7,Lily,Jeany,"English, French",4.7,7
+8,Joao,Silva,"Spanish, Portuguese",4.6,8
+9,Raj,Sharma,"Hindi, English",4.9,9
+10,Arjun,Kumar,"Hindi, English",4.8,null
+11,Rani,Patel,"Hindi, Gujarti, English",4.7,10
+12,Zoya,Ahmed,"Arabic, English",4.6,null
+13,Ali,Khan,"Arabic, French",4.5,6
+14,Su,Li,"Chinese, Japenese",4.6,null
+15,Michael,Brown,"English, Spanish",4.8,1
+16,Sofia,Martinez,"Spanish, English",4.7,2
+17,Ahmed,Ali - Farsi,"Arabic, English",4.9,3
+18,Raj,Sharma,"Hindi, English",4.9,10

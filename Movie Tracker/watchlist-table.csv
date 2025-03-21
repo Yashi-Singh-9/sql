@@ -1,0 +1,6 @@
+"watchlist_id","user_id","movie_id","status","added_date"
+"1","1","1","Watching","2024-02-01"
+"2","2","3","Completed","2024-01-15"
+"3","3","5","Planned","2024-02-05"
+"4","4","2","Watching","2024-02-10"
+"5","5","4","Completed","2024-02-12"

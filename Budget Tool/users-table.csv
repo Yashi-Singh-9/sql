@@ -1,0 +1,4 @@
+"user_id","name","email","password_hash"
+"1","Alice Johnson","alice@example.com","hashedpassword1"
+"2","Bob Smith","bob@example.com","hashedpassword2"
+"3","Charlie Brown","charlie@example.com","hashedpassword3"

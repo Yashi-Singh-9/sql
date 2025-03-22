@@ -1,0 +1,7 @@
+"transaction_id","user_id","category_id","amount","transaction_type","transaction_date"
+"1","1","1","5000","Income","2024-02-01"
+"2","2","2","1200","Income","2024-02-05"
+"3","1","3","200","Expense","2024-02-02"
+"4","1","4","1500","Expense","2024-02-03"
+"5","2","5","300","Expense","2024-02-06"
+"6","3","3","250","Expense","2024-02-11"

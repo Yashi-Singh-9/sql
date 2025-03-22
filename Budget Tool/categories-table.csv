@@ -1,0 +1,6 @@
+"category_id","category_name","category_type"
+"1","Salary","Income"
+"2","Freelance","Income"
+"3","Groceries","Expense"
+"4","Rent","Expense"
+"5","Entertainment","Expense"

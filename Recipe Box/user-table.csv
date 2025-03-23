@@ -1,0 +1,4 @@
+"user_id","username","email","password"
+"1","john_doe","john@example.com","password123"
+"2","jane_smith","jane@example.com","securepass"
+"3","alice_wonder","alice@example.com","alicepass"

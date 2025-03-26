@@ -1,0 +1,5 @@
+"match_id","home_team_id","away_team_id","match_date","stadium_name","home_team_score","away_team_score"
+"1","1","2","2024-02-01","Red Warriors Stadium","3","2"
+"2","3","4","2024-02-05","Green Titans Arena","1","1"
+"3","2","3","2024-02-10","Blue Hawks Field","0","2"
+"4","4","1","2024-02-15","Yellow Strikers Park","2","3"

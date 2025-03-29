@@ -1,0 +1,6 @@
+"user_id","name","email","location"
+"1","Alice","alice@example.com","New York"
+"2","Bob","bob@example.com","London"
+"3","Charlie","charlie@example.com","Tokyo"
+"4","David","david@example.com","Sydney"
+"5","Eve","eve@example.com","Berlin"

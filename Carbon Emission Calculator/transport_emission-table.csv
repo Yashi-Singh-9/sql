@@ -1,0 +1,6 @@
+"transport_id","user_id","vehicle_type","distance_traveled","fuel_type","co2_emission"
+"1","1","Car","200.50","Gasoline","462.160000"
+"2","2","Bus","150.00","Diesel","345.780000"
+"3","3","Bike","50.00","Electric","0.000000"
+"4","4","Car","180.20","Gasoline","414.660000"
+"5","5","Bus","120.50","Diesel","277.150000"

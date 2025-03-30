@@ -1,0 +1,6 @@
+"account_id","user_id","account_name","account_type","balance","created_at"
+"1","1","Alice Savings","Savings","5000","2024-01-01 10:05:00"
+"2","1","Alice Checking","Checking","2000","2024-01-01 10:10:00"
+"3","2","Bob Credit","Credit","-1500","2024-01-02 11:35:00"
+"4","3","Charlie Savings","Savings","8000","2024-01-03 12:50:00"
+"5","4","David Checking","Checking","1200","2024-01-04 14:20:00"

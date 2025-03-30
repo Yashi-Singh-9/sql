@@ -1,0 +1,6 @@
+"category_id","category_name","category_type"
+"1","Salary","Income"
+"2","Groceries","Expense"
+"3","Entertainment","Expense"
+"4","Investment","Income"
+"5","Rent","Expense"

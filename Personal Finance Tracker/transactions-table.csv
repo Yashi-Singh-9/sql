@@ -1,0 +1,6 @@
+"transaction_id","user_id","account_id","transaction_type","category_id","amount","transaction_date","description"
+"1","1","1","Income","1","3000","2024-01-05","Monthly salary"
+"2","1","2","Expense","2","200","2024-01-06","Grocery shopping"
+"3","2","3","Expense","5","1000","2024-01-07","Rent payment"
+"4","3","4","Income","4","5000","2024-01-08","Stock dividend"
+"5","4","5","Expense","3","100","2024-01-09","Movie night"

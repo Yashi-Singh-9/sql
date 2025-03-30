@@ -1,0 +1,5 @@
+"recurring_id","user_id","account_id","amount","next_due_date","frequency","description"
+"1","1","2","50","2024-02-01","Monthly","Netflix Subscription"
+"2","2","3","100","2024-02-05","Monthly","Gym Membership"
+"3","3","4","200","2024-02-10","Yearly","Insurance Payment"
+"4","4","5","30","2024-02-15","Weekly","Spotify Subscription"

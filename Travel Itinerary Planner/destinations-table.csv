@@ -1,0 +1,5 @@
+"destination_id","trip_id","location_name","country","latitude","longitude"
+"1","1","Eiffel Tower","France","48.85840000","2.29450000"
+"2","1","Louvre Museum","France","48.86060000","2.33760000"
+"3","2","Shibuya Crossing","Japan","35.65950000","139.70050000"
+"4","3","Central Park","USA","40.78510000","-73.-96830000"

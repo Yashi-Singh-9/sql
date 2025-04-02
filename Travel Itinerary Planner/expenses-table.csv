@@ -1,0 +1,5 @@
+"expense_id","trip_id","expense_type","amount","date"
+"1","1","Food","200","2024-06-02"
+"2","1","Tickets","150","2024-06-03"
+"3","2","Transport","300","2024-07-06"
+"4","3","Accommodation","1200","2024-08-10"

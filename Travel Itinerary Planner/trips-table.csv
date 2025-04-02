@@ -1,0 +1,4 @@
+"trip_id","user_id","trip_name","start_date","end_date","destination"
+"1","1","Paris Vacation","2024-06-01 10:00:00","2024-06-10 22:00:00","Paris"
+"2","2","Tokyo Adventure","2024-07-05 08:00:00","2024-07-15 23:59:00","Tokyo"
+"3","3","NYC Getaway","2024-08-10 12:00:00","2024-08-18 20:00:00","New York"

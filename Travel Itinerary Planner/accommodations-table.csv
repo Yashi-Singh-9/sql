@@ -1,0 +1,4 @@
+"accommodation_id","trip_id","hotel_name","check_in_date","check_out_date"
+"1","1","Hotel Paris","2024-06-01","2024-06-10"
+"2","2","Tokyo Inn","2024-07-05","2024-07-15"
+"3","3","NY Grand","2024-08-10","2024-08-18"

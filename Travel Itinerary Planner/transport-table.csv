@@ -1,0 +1,4 @@
+"transport_id","trip_id","mode_of_transport","departure_time","arrival_time","source_location","destination_location"
+"1","1","Flight","06:00:00","10:00:00","New York","Paris"
+"2","2","Train","09:30:00","11:30:00","Osaka","Tokyo"
+"3","3","Flight","07:00:00","11:00:00","Los Angeles","New York"

@@ -1,0 +1,6 @@
+"fine_id","user_id","borrow_id","fine_amount","fine_status","payment_date"
+"1","1","1","10","Unpaid","null"
+"2","2","2","5","Paid","2025-02-03"
+"3","5","5","15","Unpaid","null"
+"4","4","4","7.5","Paid","2025-01-26"
+"5","7","7","12","Unpaid","null"

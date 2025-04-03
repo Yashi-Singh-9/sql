@@ -1,0 +1,8 @@
+"book_id","title","author","publisher","published_year","genre","isbn","total_copies","available_copies"
+"1","The Great Gatsby","F. Scott Fitzgerald","Scribner","1925","Fiction","9780743273565","5","3"
+"2","To Kill a Mockingbird","Harper Lee","J.B. Lippincott & Co.","1960","Fiction","9780061120084","4","2"
+"3","1984","George Orwell","Secker & Warburg","1949","Dystopian","9780451524935","6","4"
+"4","Moby Dick","Herman Melville","Harper & Brothers","1851","Adventure","9781503280786","3","2"
+"5","Pride and Prejudice","Jane Austen","T. Egerton","1813","Romance","9781503290563","7","5"
+"6","War and Peace","Leo Tolstoy","The Russian Messenger","1869","Historical","9781400079988","2","1"
+"7","The Catcher in the Rye","J.D. Salinger","Little, Brown and Company","1951","Fiction","9780316769488","4","3"

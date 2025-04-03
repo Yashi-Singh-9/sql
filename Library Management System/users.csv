@@ -1,0 +1,8 @@
+"user_id","name","email","phone","address","user_type"
+"1","Alice Johnson","alice@example.com","1234567890","123 Maple St","Student"
+"2","Bob Smith","bob@example.com","2345678901","456 Oak St","Teacher"
+"3","Charlie Brown","charlie@example.com","3456789012","789 Pine St","Librarian"
+"4","David Lee","david@example.com","4567890123","321 Birch St","Student"
+"5","Eva Green","eva@example.com","5678901234","654 Cedar St","Teacher"
+"6","Frank White","frank@example.com","6789012345","987 Walnut St","Student"
+"7","Grace Black","grace@example.com","7890123456","147 Elm St","Librarian"

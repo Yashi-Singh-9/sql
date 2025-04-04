@@ -1,0 +1,6 @@
+"payment_id","order_id","payment_date","payment_method","status"
+"1","1","2024-02-02","Card","Success"
+"2","2","2024-02-06","PayPal","Failed"
+"3","3","2024-02-11","Cash","Success"
+"4","4","2024-02-16","Card","Success"
+"5","5","2024-02-19","PayPal","Success"

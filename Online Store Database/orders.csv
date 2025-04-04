@@ -1,0 +1,6 @@
+"order_id","user_id","order_date","total_amount","status"
+"1","1","2024-02-01","1020","Completed"
+"2","2","2024-02-05","750","Pending"
+"3","3","2024-02-10","60","Completed"
+"4","4","2024-02-15","500","Canceled"
+"5","1","2024-02-18","100","Completed"

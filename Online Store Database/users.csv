@@ -1,0 +1,6 @@
+"user_id","name","email","password","phone","address","user_type"
+"1","Alice Johnson","alice@example.com","pass123","1234567890","123 Elm St, NY","Customer"
+"2","Bob Smith","bob@example.com","pass456","9876543210","456 Oak St, CA","Admin"
+"3","Charlie Brown","charlie@example.com","pass789","5647382910","789 Pine St, TX","Customer"
+"4","David Lee","david@example.com","pass234","1231231234","101 Maple St, FL","Customer"
+"5","Emma Watson","emma@example.com","pass567","7897897890","303 Birch St, NV","Admin"

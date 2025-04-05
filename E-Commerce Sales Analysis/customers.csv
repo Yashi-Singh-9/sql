@@ -1,0 +1,4 @@
+"customer_id","name","email","phone_number","address","created_at"
+"1","John Doe","john@example.com","1234567890","123 Elm Street, NY","2024-02-01 10:00:00"
+"2","Jane Smith","jane@example.com","2345678901","456 Oak Street, CA","2024-02-02 11:15:00"
+"3","Alice Johnson","alice@example.com","3456789012","789 Pine Street, TX","2024-02-03 12:30:00"

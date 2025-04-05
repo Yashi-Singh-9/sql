@@ -1,0 +1,4 @@
+"payment_id","order_id","payment_method","payment_status","payment_date"
+"1","1","Credit Card","Completed","2024-02-05 14:00:00"
+"2","2","PayPal","Pending","2024-02-06 15:30:00"
+"3","3","Debit Card","Completed","2024-02-07 16:45:00"

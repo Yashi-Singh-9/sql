@@ -1,0 +1,4 @@
+"order_id","customer_id","order_date","total_amount","status"
+"1","1","2024-02-05","1950","Shipped"
+"2","2","2024-02-06","800","Processing"
+"3","3","2024-02-07","1350","Delivered"

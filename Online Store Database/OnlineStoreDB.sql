@@ -1,3 +1,4 @@
+-- Create Database
 CREATE DATABASE OnlineStoreDB;
 
 -- Users Table 

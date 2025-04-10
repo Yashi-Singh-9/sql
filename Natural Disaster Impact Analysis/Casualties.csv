@@ -1,0 +1,6 @@
+"casualty_id","disaster_id","injured_count","death_count","missing_count"
+"1","1","100","10","5"
+"2","2","500","20","15"
+"3","3","200","5","2"
+"4","4","null","null","null"
+"5","5","50","2","1"

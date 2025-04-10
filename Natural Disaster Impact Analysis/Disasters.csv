@@ -1,0 +1,6 @@
+"disaster_id","disaster_type","start_date","end_date","location_id"
+"1","Earthquake","2023-01-10","2023-01-15","1"
+"2","Flood","2023-03-05","null","2"
+"3","Hurricane","2023-06-20","2023-06-25","3"
+"4","Wildfire","2023-08-10","null","4"
+"5","Tsunami","2023-09-15","2023-09-18","null"

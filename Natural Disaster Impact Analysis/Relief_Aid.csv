@@ -1,0 +1,6 @@
+"aid_id","disaster_id","organization_name","aid_amount","aid_type","distribution_date"
+"1","1","Red Cross","500000.00","Medical","2023-01-12"
+"2","2","UNICEF","1000000.00","Food","2023-03-07"
+"3","3","WHO","750000.00","Medical","2023-06-22"
+"4","4","Local Government","null","Shelter","null"
+"5","5","World Food Programme","1200000.00","Food","2023-09-16"

@@ -1,0 +1,4 @@
+"delay_id","flight_id","departure_delay","arrival_delay","weather_delay","air_traffic_delay","security_delay","carrier_delay","late_aircraft_delay"
+"1","1","10","5","null","null","null","null","null"
+"2","2","15","10","5","null","null","10","null"
+"3","4","10","20","null","10","null","null","null"

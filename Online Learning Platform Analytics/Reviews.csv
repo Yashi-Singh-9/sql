@@ -1,0 +1,4 @@
+"review_id","user_id","course_id","rating","review_text","review_date"
+"1","1","1","4.50","Great course for beginners!","2023-03-05"
+"2","3","2","5.00","Very detailed and informative.","2023-04-15"
+"3","5","3","3.80","null","null"

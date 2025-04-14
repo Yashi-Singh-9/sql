@@ -1,0 +1,4 @@
+"payment_id","user_id","course_id","amount","payment_date","status"
+"1","1","1","49.99","2023-02-01","completed"
+"2","3","2","79.99","2023-04-10","completed"
+"3","5","3","99.99","2023-05-20","pending"

@@ -1,0 +1,7 @@
+"user_id","name","email","registration_date","user_type","last_login"
+"1","Alice Johnson","alice@example.com","2023-01-05","student","2024-01-10 12:34:56"
+"2","Bob Smith","bob@example.com","2022-11-20","instructor","2024-02-12 10:20:30"
+"3","Charlie Brown","charlie@example.com","2023-03-15","student","null"
+"4","David Lee","david@example.com","2021-08-10","admin","2024-01-20 15:00:00"
+"5","Eva Green","null","2023-07-05","student","null"
+"6","Frank Miller","frank@example.com","2022-12-12","instructor","2024-02-01 09:15:45"

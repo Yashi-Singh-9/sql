@@ -1,0 +1,5 @@
+"course_id","course_name","instructor_id","category","created_date","course_price"
+"1","Python Basics","2","Programming","2023-01-15","49.99"
+"2","Web Development","2","Web Design","2022-12-01","79.99"
+"3","Data Science","5","Data Analysis","2023-02-20","99.99"
+"4","Marketing 101","null","Business","2023-03-10","39.99"

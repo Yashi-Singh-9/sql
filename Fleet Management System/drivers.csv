@@ -1,0 +1,8 @@
+"driver_id","name","license_number","contact","assigned_vehicle_id"
+"1","John Doe","DL123456","9876543210","1"
+"2","Jane Smith","DL789012","8765432109","3"
+"3","Mike Johnson","DL345678","7654321098","2"
+"4","Emily Davis","DL901234","6543210987","null"
+"5","Robert Brown","DL567890","5432109876","5"
+"6","Sarah Wilson","DL678901","4321098765","6"
+"7","David Miller","DL234567","3210987654","7"

@@ -1,0 +1,8 @@
+"vehicle_id","registration_number","make","model","year","capacity","status"
+"1","ABC123","Toyota","Hilux","2020","5","Active"
+"2","XYZ789","Ford","Transit","2018","12","Under Maintenance"
+"3","LMN456","Mercedes","Sprinter","2019","15","Active"
+"4","JKL321","Nissan","Navara","2021","5","Inactive"
+"5","QRS654","Isuzu","D-Max","2022","3","Active"
+"6","DEF987","Chevrolet","Silverado","2017","6","Active"
+"7","TUV159","Honda","Ridgeline","2019","5","Under Maintenance"

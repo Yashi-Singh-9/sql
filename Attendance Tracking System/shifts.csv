@@ -1,0 +1,4 @@
+"shift_id","shift_name","start_time","end_time"
+"1","Morning Shift","08:00:00","16:00:00"
+"2","Evening Shift","16:00:00","00:00:00"
+"3","Night Shift","00:00:00","08:00:00"

@@ -1,0 +1,7 @@
+"product_id","product_name","category_id","price","stock_quantity"
+"1","Coca-Cola","1","1.5","100"
+"2","Chips","2","2","150"
+"3","Milk","3","1.2","200"
+"4","Bread","4","1","180"
+"5","Apple","5","0.8","250"
+"6","Carrot","6","0.6","300"

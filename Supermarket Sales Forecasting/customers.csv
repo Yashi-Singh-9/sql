@@ -1,0 +1,7 @@
+"customer_id","customer_name","customer_email","customer_phone","customer_address","customer_type"
+"1","Alice Johnson","alice@example.com","9876543210","123 Maple St","Regular"
+"2","Bob Smith","bob@example.com","8765432109","456 Oak St","VIP"
+"3","Charlie Brown","charlie@example.com","7654321098","789 Pine St","Regular"
+"4","David Lee","david@example.com","6543210987","321 Cedar St","VIP"
+"5","Emma Wilson","emma@example.com","5432109876","567 Birch St","Regular"
+"6","Frank Thomas","frank@example.com","4321098765","678 Walnut St","VIP"

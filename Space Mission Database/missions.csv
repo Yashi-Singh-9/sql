@@ -1,0 +1,8 @@
+"mission_id","mission_name","launch_date","agency_id","vehicle_id","destination_id","status"
+"1","Apollo 11","1969-07-16","1","2","1","Success"
+"2","Vostok 1","1961-04-12","3","3","2","Success"
+"3","Mars Rover","2012-08-06","1","1","3","Success"
+"4","Chandrayaan-2","2019-07-22","4","4","1","Failure"
+"5","Tianwen-1","2020-07-23","5","6","3","Success"
+"6","Juno","2011-08-05","1","2","4","Success"
+"7","Hayabusa2","2014-12-03","6","7","5","Success"

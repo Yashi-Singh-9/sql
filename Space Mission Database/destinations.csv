@@ -1,0 +1,8 @@
+"destination_id","destination_name","type","distance_from_earth_km"
+"1","Moon","Moon","384400"
+"2","International Space Station","Space Station","400"
+"3","Mars","Planet","225000000"
+"4","Jupiter","Planet","778500000"
+"5","Asteroid Bennu","Asteroid","110000000"
+"6","Venus","Planet","41000000"
+"7","Europa","Moon","628300000"

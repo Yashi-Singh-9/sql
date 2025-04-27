@@ -1,0 +1,8 @@
+"vehicle_id","vehicle_name","manufacturer","thrust_power","fuel_type"
+"1","Falcon 9","SpaceX","7607","Liquid"
+"2","Saturn V","NASA","34000","Liquid"
+"3","Soyuz-FG","Roscosmos","7920","Liquid"
+"4","GSLV Mk III","ISRO","7600","Solid & Liquid"
+"5","Ariane 5","ESA","13900","Liquid & Solid"
+"6","Long March 5","CNSA","10600","Liquid"
+"7","H-IIA","JAXA","9800","Liquid"

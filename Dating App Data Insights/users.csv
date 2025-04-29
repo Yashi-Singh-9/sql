@@ -1,0 +1,8 @@
+"user_id","user_name","gender","age","locations","created_at","last_active"
+"1","Alice","Female","25","New York","2023-01-10","12:30:00"
+"2","Bob","Male","30","Los Angeles","2022-12-05","14:15:00"
+"3","Charlie","Male","28","Chicago","2023-02-20","10:45:00"
+"4","David","Male","32","Houston","2023-03-12","16:00:00"
+"5","Eve","Female","27","San Francisco","2023-04-08","09:30:00"
+"6","Fay","Female","29","Seattle","2023-05-15","11:50:00"
+"7","George","Male","26","Miami","2023-06-20","18:20:00"

@@ -1,0 +1,8 @@
+"message_id","sender_id","receiver_id","match_id","messages_text","sent_at"
+"1","1","2","1","Hey Bob! How are you?","2023-07-10 14:05:00"
+"2","3","4","2","Nice to meet you, David!","2023-07-12 15:35:00"
+"3","5","6","3","Let’s go on an adventure!","2023-07-15 18:50:00"
+"4","1","5","4","Do you like traveling?","2023-07-18 20:15:00"
+"5","2","6","5","What’s your favorite dance style?","2023-07-20 09:05:00"
+"6","3","7","6","What coding language do you prefer?","2023-07-22 13:30:00"
+"7","4","5","7","Music or books, what’s your favorite?","2023-07-25 16:45:00"

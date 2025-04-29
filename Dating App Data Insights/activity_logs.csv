@@ -1,0 +1,8 @@
+"log_id","user_id","action_type","action_time"
+"1","1","Logged in","2023-07-10 12:00:00"
+"2","2","Updated profile picture","2023-07-11 14:30:00"
+"3","3","Sent a message","2023-07-12 16:00:00"
+"4","4","Matched with a user","2023-07-15 10:45:00"
+"5","5","Subscribed to Premium","2023-07-18 08:20:00"
+"6","6","Changed relationship status","2023-07-20 11:10:00"
+"7","7","Logged out","2023-07-22 19:30:00"

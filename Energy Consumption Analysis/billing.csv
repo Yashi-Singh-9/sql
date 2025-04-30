@@ -1,0 +1,7 @@
+"bill_id","customer_id","billing_month","total_amount","payment_status"
+"1","1","January 2024","50.15","Paid"
+"2","2","January 2024","65.75","Pending"
+"3","3","January 2024","45.30","Paid"
+"4","4","January 2024","55.10","Pending"
+"5","5","January 2024","58.20","Paid"
+"6","6","January 2024","62.40","Pending"

@@ -1,0 +1,7 @@
+"customer_id","name","address","contact_number","email"
+"1","John Doe","123 Green St, New York","1234567890","john.doe@example.com"
+"2","Jane Smith","456 Blue Ave, Los Angeles","9876543210","jane.smith@example.com"
+"3","Alice Johnson","789 Yellow Rd, Chicago","5647382910","alice.johnson@example.com"
+"4","Bob Brown","321 Red Ln, Houston","6789054321","bob.brown@example.com"
+"5","Charlie White","654 Purple Dr, Phoenix","7890123456","charlie.white@example.com"
+"6","Emma Black","987 Orange Blvd, Miami","8901234567","emma.black@example.com"

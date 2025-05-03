@@ -1,0 +1,8 @@
+"user_id","username","passwords","roles"
+"1","admin1","pass123","Admin"
+"2","cashier1","cash123","Cashier"
+"3","manager1","man123","Manager"
+"4","supervisor1","sup123","Supervisor"
+"5","stockkeeper1","stock123","Stock Keeper"
+"6","accountant1","acc123","Accountant"
+"7","hr1","hr123","HR"

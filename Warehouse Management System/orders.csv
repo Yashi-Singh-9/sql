@@ -1,0 +1,7 @@
+"order_id","customer_id","order_date","status"
+"1","1","2024-02-10","Processing"
+"2","2","2024-02-11","Shipped"
+"3","3","2024-02-12","Delivered"
+"4","4","2024-02-13","Processing"
+"5","5","2024-02-14","Cancelled"
+"6","6","2024-02-15","Shipped"

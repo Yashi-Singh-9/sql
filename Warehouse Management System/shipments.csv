@@ -1,0 +1,7 @@
+"shipment_id","order_id","warehouse_id","shipment_date","status"
+"1","1","1","2024-02-12","Dispatched"
+"2","2","2","2024-02-13","In Transit"
+"3","3","3","2024-02-14","Delivered"
+"4","4","4","2024-02-15","Processing"
+"5","5","5","2024-02-16","Cancelled"
+"6","6","6","2024-02-17","Shipped"

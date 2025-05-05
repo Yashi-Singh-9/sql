@@ -1,0 +1,7 @@
+"warehouse_id","warehouse_name","locations","capacity"
+"1","Central Warehouse","New York","500.00"
+"2","East Warehouse","Boston","450.00"
+"3","West Warehouse","Los Angeles","600.00"
+"4","South Warehouse","Miami","550.00"
+"5","North Warehouse","Chicago","480.00"
+"6","Midwest Warehouse","Dallas","520.00"

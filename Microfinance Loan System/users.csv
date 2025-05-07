@@ -1,0 +1,7 @@
+"user_id","username","password_hash","roles","created_at"
+"1","admin1","hashed_password_1","Admin","2024-02-20"
+"2","loanofficer1","hashed_password_2","Loan Officer","2024-02-20"
+"3","manager1","hashed_password_3","Manager","2024-02-20"
+"4","admin2","hashed_password_4","Admin","2024-02-20"
+"5","loanofficer2","hashed_password_5","Loan Officer","2024-02-20"
+"6","manager2","hashed_password_6","Manager","2024-02-20"

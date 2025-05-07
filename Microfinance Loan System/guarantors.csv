@@ -1,0 +1,7 @@
+"guarantor_id","customer_id","loan_id","guarantor_name","guarantor_phone","guarantor_relationship","created_at"
+"1","2","1","Robert Doe","9876504321","Brother","2024-02-20"
+"2","3","2","Laura Smith","8765409876","Sister","2024-02-20"
+"3","4","3","James Johnson","7654328765","Friend","2024-02-20"
+"4","5","4","Anna Davis","6543217654","Parent","2024-02-20"
+"5","6","5","George Brown","5432106543","Spouse","2024-02-20"
+"6","1","6","Sophia Wilson","4321095432","Cousin","2024-02-20"

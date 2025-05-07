@@ -1,0 +1,7 @@
+"customer_id","first_name","last_name","dob","phone_number","email","address","created_at"
+"1","John","Doe","1985-06-15","9876543210","johndoe@example.com","123 Main St, NY","2024-02-20"
+"2","Jane","Smith","1990-09-25","8765432109","janesmith@example.com","456 Elm St, CA","2024-02-20"
+"3","Michael","Johnson","1982-12-05","7654321098","michaelj@example.com","789 Oak St, TX","2024-02-20"
+"4","Emily","Davis","1995-07-19","6543210987","emilyd@example.com","159 Pine St, FL","2024-02-20"
+"5","David","Brown","1988-04-10","5432109876","davidb@example.com","753 Cedar St, WA","2024-02-20"
+"6","Sarah","Wilson","1992-11-30","4321098765","sarahw@example.com","951 Birch St, NV","2024-02-20"

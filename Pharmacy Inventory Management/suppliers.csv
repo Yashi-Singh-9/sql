@@ -1,0 +1,4 @@
+"supplier_id","supplier_name","contact_person","phone","email","address"
+"1","MediSupply Inc.","John Doe","9876543210","medisupply@example.com","123 Med St"
+"2","Health Distributors","Jane Smith","9123456789","healthdist@example.com","456 Wellness Ave"
+"3","Pharma Direct","Alice Brown","9654321098","pharmadirect@example.com","789 Care Blvd"

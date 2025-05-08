@@ -1,0 +1,4 @@
+"employee_id","employee_name","phone","email","role","salary"
+"1","David Clark","9876543222","davidc@example.com","Pharmacist","4500.00"
+"2","Jessica White","9988776644","jessicaw@example.com","Cashier","3000.00"
+"3","Robert Hall","9786543209","roberth@example.com","Manager","5500.00"

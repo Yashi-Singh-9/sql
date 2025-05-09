@@ -1,0 +1,7 @@
+"policyid","patientid","policynumber","providername","coveragetype","startdate","enddate"
+"1","1","POL123456","Dr. Williams","Full Coverage","2023-01-01","2025-01-01"
+"2","2","POL234567","Dr. Patel","Partial Coverage","2022-06-15","2024-06-15"
+"3","3","POL345678","Dr. Kim","Full Coverage","2021-09-10","2023-09-10"
+"4","4","POL456789","Dr. Lee","Basic Coverage","2023-03-20","2025-03-20"
+"5","5","POL567890","Dr. Anderson","Full Coverage","2022-12-01","2024-12-01"
+"6","6","POL678901","Dr. Johnson","Partial Coverage","2023-08-10","2025-08-10"

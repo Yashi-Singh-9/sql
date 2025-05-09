@@ -1,0 +1,7 @@
+"patientid","firstname","lastname","dateofbirth","gender","contactnumber","address"
+"1","John","Doe","1985-06-15","Male","1234567890","123 Main St, NY"
+"2","Jane","Smith","1990-08-20","Female","9876543210","456 Oak St, CA"
+"3","Emily","Johnson","1978-04-10","Female","5678901234","789 Pine St, TX"
+"4","Michael","Brown","1995-12-25","Male","3456789012","321 Cedar St, FL"
+"5","David","Wilson","1982-09-05","Male","6789012345","654 Elm St, WA"
+"6","Emma","Davis","2000-07-30","Female","4321098765","987 Birch St, IL"

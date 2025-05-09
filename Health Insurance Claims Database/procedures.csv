@@ -1,0 +1,7 @@
+"procedureid","claimid","procedurecode","description","costs"
+"1","1","12345","CT Scan","500.00"
+"2","2","23456","Skin Biopsy","300.00"
+"3","3","34567","MRI Scan","700.00"
+"4","4","45678","X-Ray","200.00"
+"5","5","56789","Physical Therapy","400.00"
+"6","6","67890","Endoscopy","600.00"

@@ -1,0 +1,7 @@
+"prescription_id","visit_id","medication_id","dosage","instructions"
+"1","1","1","100mg","Take once daily after food"
+"2","2","4","250mg","Take twice daily for 5 days"
+"3","3","2","200mg","Every 6 hours as needed"
+"4","4","3","500mg","Once daily for 7 days"
+"5","5","5","50mg","Take as directed by doctor"
+"6","6","6","10mg","Before bed for dizziness relief"

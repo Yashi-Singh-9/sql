@@ -1,0 +1,7 @@
+"patient_id","first_name","last_name","dob","gender","phone","address","insurance_id"
+"1","John","Doe","1985-06-15","Male","1234567890","123 Main St, NY","INS12345"
+"2","Jane","Smith","1992-09-22","Female","9876543210","456 Elm St, CA","INS67890"
+"3","Michael","Brown","1978-03-10","Male","1122334455","789 Oak St, TX","null"
+"4","Emily","Davis","2000-12-01","Female","2233445566","321 Pine St, FL","INS34567"
+"5","David","Wilson","1995-07-07","Male","3344556677","654 Birch St, WA","null"
+"6","Sarah","Miller","1989-11-30","Female","4455667788","987 Cedar St, NV","INS89012"

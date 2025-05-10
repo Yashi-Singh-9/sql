@@ -1,0 +1,7 @@
+"triage_id","patient_id","arrival_time","priority_level","symptoms","blood_pressure","heart_rate","temperature","triage_nurse_id"
+"1","1","2025-02-24 08:30:00","High","Chest pain, shortness of breath","140/90","95","37.50","1"
+"2","2","2025-02-24 09:15:00","Medium","Fever, headache","120/80","88","38.20","1"
+"3","3","2025-02-24 10:00:00","Critical","Severe bleeding","110/70","102","36.80","1"
+"4","4","2025-02-24 10:45:00","Low","Mild cough","115/75","85","37.00","1"
+"5","5","2025-02-24 11:30:00","High","Difficulty breathing","130/85","98","37.80","1"
+"6","6","2025-02-24 12:15:00","Medium","Dizziness","118/78","90","37.10","1"

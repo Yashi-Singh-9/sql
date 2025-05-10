@@ -1,0 +1,4 @@
+"staff_id","first_name","last_name","role","phone","email"
+"1","Alice","Johnson","Nurse","5551234567","alice.johnson@example.com"
+"2","Robert","Williams","Admin","5559876543","robert.williams@example.com"
+"3","Linda","Martinez","Receptionist","5551122334","linda.martinez@example.com"

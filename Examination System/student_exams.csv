@@ -1,0 +1,7 @@
+"student_exam_id","student_id","exam_id","score","status"
+"1","1","1","85","Completed"
+"2","2","2","90","Completed"
+"3","3","3","78","Completed"
+"4","1","4","88","Pending"
+"5","2","5","95","Pending"
+"6","3","6","80","Completed"

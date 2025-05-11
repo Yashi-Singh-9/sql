@@ -1,0 +1,7 @@
+"application_id","student_id","scholarship_id","status","date_applied"
+"1","1","1","Pending","2024-12-01"
+"2","2","3","Approved","2024-11-15"
+"3","3","2","Rejected","2024-10-10"
+"4","4","4","Pending","2024-09-05"
+"5","5","5","Approved","2024-08-20"
+"6","6","6","Rejected","2024-07-25"

@@ -1,0 +1,7 @@
+"scholarship_id","scholarship_name","amount","eligibility_criteria","application_deadline"
+"1","Merit Scholarship","5000.00","GPA > 3.5","2025-01-01"
+"2","Need-Based Scholarship","3000.00","Family income < $40,000","2025-02-15"
+"3","STEM Scholarship","4000.00","Majoring in STEM fields","2025-03-10"
+"4","Arts Excellence Scholarship","2000.00","Outstanding performance in Arts","2025-04-05"
+"5","Athletic Scholarship","3500.00","Exceptional sports performance","2025-05-20"
+"6","Community Service Scholarship","2500.00","Volunteering experience","2025-06-30"

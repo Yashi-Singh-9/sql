@@ -1,0 +1,7 @@
+"student_id","student_name","email","phone","date_of_birth","address","programs"
+"1","Alice Johnson","alice@example.com","1234567890","2000-05-14","123 Main St, NY","Computer Science"
+"2","Bob Smith","bob@example.com","9876543210","1999-08-22","456 Elm St, CA","Mechanical Engineering"
+"3","Charlie Brown","charlie@example.com","1122334455","2001-11-10","789 Oak St, TX","Business Administration"
+"4","David Lee","david@example.com","2233445566","2002-01-15","101 Pine St, FL","Electrical Engineering"
+"5","Emma Watson","emma@example.com","3344556677","1998-06-30","202 Maple St, IL","Medicine"
+"6","Frank White","frank@example.com","4455667788","2003-09-25","303 Cedar St, WA","Law"

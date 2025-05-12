@@ -1,0 +1,3 @@
+"payment_id","ride_id","user_id","amount","payment_method","status","timestamp"
+"1","1","1","15.00","card","completed","2025-02-25 13:27:00.529296"
+"2","2","3","20.50","cash","pending","2025-02-25 13:27:00.529296"

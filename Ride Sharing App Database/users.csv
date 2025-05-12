@@ -1,0 +1,5 @@
+"user_id","name","email","phone_number","user_type","rating"
+"1","Alice","alice@example.com","1234567890","passenger","4.50"
+"2","Bob","bob@example.com","1234567891","driver","4.80"
+"3","Charlie","charlie@example.com","1234567892","passenger","4.20"
+"4","Dave","dave@example.com","1234567893","driver","4.60"

@@ -1,0 +1,6 @@
+"payment_id","booking_id","payment_mode","amount","payment_date","payment_status"
+"1","1","Credit Card","2500.00","2025-02-25 16:38:44","Success"
+"2","2","UPI","1500.00","2025-02-25 16:38:44","Pending"
+"3","3","Debit Card","3200.00","2025-02-25 16:38:44","Success"
+"4","4","Net Banking","1800.00","2025-02-25 16:38:44","Failed"
+"5","5","Cash","900.00","2025-02-25 16:38:44","Pending"

@@ -1,0 +1,6 @@
+"seat_id","train_id","coach_number","seat_number","class","status"
+"1","1","A1","21","AC","Available"
+"2","1","A1","22","AC","Booked"
+"3","2","S1","45","Sleeper","Available"
+"4","3","G2","11","General","Booked"
+"5","4","A2","34","AC","Available"

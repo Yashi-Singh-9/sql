@@ -1,0 +1,6 @@
+"user_id","username","password","role","email"
+"1","admin1","admin123","Admin","admin1@railway.com"
+"2","admin2","admin456","Admin","admin2@railway.com"
+"3","clerk1","clerk123","Clerk","clerk1@railway.com"
+"4","clerk2","clerk456","Clerk","clerk2@railway.com"
+"5","clerk3","clerk789","Clerk","clerk3@railway.com"

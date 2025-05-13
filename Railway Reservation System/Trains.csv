@@ -1,0 +1,6 @@
+"train_id","train_name","source_station","destination_station","departure_time","arrival_time","train_type","total_seats","available_seats"
+"1","Rajdhani Express","Mumbai","Delhi","18:00:00","10:00:00","Express","500","450"
+"2","Shatabdi Express","Delhi","Chandigarh","06:00:00","09:30:00","Express","400","370"
+"3","Duronto Express","Kolkata","Mumbai","20:00:00","12:00:00","Superfast","600","580"
+"4","Garib Rath","Chennai","Hyderabad","22:00:00","07:00:00","Express","450","420"
+"5","Intercity Express","Bangalore","Mysore","07:30:00","10:00:00","Local","300","250"

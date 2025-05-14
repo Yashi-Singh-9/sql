@@ -1,0 +1,6 @@
+"bus_id","bus_number","capacity","type","status"
+"1","101","50","AC","Active"
+"2","102","40","Non-AC","Inactive"
+"3","103","45","Electric","Active"
+"4","104","55","AC","Under Maintenance"
+"5","105","60","Non-AC","Active"

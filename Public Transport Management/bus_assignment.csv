@@ -1,0 +1,6 @@
+"assignment_id","bus_id","driver_id","assigned_date","shift"
+"1","1","2","2025-02-20","Morning"
+"2","3","4","2025-02-21","Evening"
+"3","5","1","2025-02-22","Night"
+"4","2","5","2025-02-23","Morning"
+"5","4","3","2025-02-24","Evening"

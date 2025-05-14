@@ -1,0 +1,6 @@
+"payment_id","ticket_id","payment_method","amount","payment_status"
+"1","1","Cash","15.50","Paid"
+"2","2","Card","12.75","Pending"
+"3","3","Online","18.00","Paid"
+"4","4","Cash","20.25","Paid"
+"5","5","Card","22.50","Pending"

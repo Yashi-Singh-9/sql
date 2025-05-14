@@ -1,0 +1,6 @@
+"route_id","route_name","start_point","end_point","distance"
+"1","Route A","Station X","Station Y","12.5"
+"2","Route B","Station Y","Station Z","18"
+"3","Route C","Station Z","Station W","25.3"
+"4","Route D","Station W","Station X","30.2"
+"5","Route E","Station X","Station Z","22.7"

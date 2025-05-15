@@ -1,0 +1,6 @@
+"program_id","program_name","description","budget","eligibility_criteria"
+"1","Food Assistance","Provides food subsidies to low-income families","1000000.00","Income below 20,000 per year"
+"2","Housing Support","Helps with rent subsidies","2000000.00","No home ownership and income below 30,000 per year"
+"3","Health Coverage","Provides medical aid to unemployed individuals","1500000.00","Unemployed for at least 6 months"
+"4","Education Grants","Scholarships for underprivileged students","1200000.00","Enrolled in school with a GPA above 3.0"
+"5","Small Business Aid","Support for small businesses affected by crisis","2500000.00","Business revenue decline of at least 30%"

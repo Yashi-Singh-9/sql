@@ -1,0 +1,6 @@
+"payment_id","distribution_id","payment_date","payment_method","transaction_id","status"
+"1","1","2024-01-12","Bank Transfer","100001","Completed"
+"2","2","2024-02-18","Cash","100002","Pending"
+"3","4","2024-01-28","Mobile Wallet","100003","Completed"
+"4","5","2024-04-12","Bank Transfer","100004","Completed"
+"5","7","2024-05-18","Cash","100005","Pending"

@@ -1,0 +1,6 @@
+"beneficiary_id","name","dob","gender","national_id","phone","address"
+"1","John Doe","1985-06-15","Male","NID12345","9876543210","123 Main St, City A"
+"2","Jane Smith","1990-09-20","Female","NID67890","9876543211","456 Oak St, City B"
+"3","Alice Johnson","1978-03-11","Female","NID11223","9876543212","789 Pine St, City C"
+"4","Bob Williams","1995-12-05","Male","NID44556","9876543213","101 Maple St, City D"
+"5","Emma Brown","1982-07-25","Female","NID77889","9876543214","202 Birch St, City E"

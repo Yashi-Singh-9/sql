@@ -1,0 +1,6 @@
+"incident_id","intersection_id","incident_type","severity","timestamp"
+"1","1","Accident","Severe","2025-02-26 10:26:03.230556"
+"2","2","Roadblock","Moderate","2025-02-26 10:26:03.230556"
+"3","3","Weather-related","Minor","2025-02-26 10:26:03.230556"
+"4","4","Accident","Moderate","2025-02-26 10:26:03.230556"
+"5","5","Roadblock","Severe","2025-02-26 10:26:03.230556"

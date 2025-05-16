@@ -1,0 +1,6 @@
+"maintenance_id","signal_id","last_maintenance_date","next_maintenance_date","maintenance_status"
+"1","1","2023-01-10","2024-01-10","Completed"
+"2","2","2023-06-15","2024-06-15","Pending"
+"3","3","2022-09-20","2023-09-20","Completed"
+"4","4","2023-04-05","2024-04-05","Pending"
+"5","5","2023-08-12","2024-08-12","Completed"

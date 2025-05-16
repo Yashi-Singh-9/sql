@@ -1,0 +1,6 @@
+"signal_id","intersection_id","signal_type","status","installation_date"
+"1","1","LED","Active","2020-05-15"
+"2","2","Smart Signal","Active","2021-08-22"
+"3","3","Halogen","Inactive","2018-12-10"
+"4","4","Incandescent","Active","2019-06-30"
+"5","5","Fluorescent","Inactive","2017-11-05"

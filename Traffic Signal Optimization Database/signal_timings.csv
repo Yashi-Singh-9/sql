@@ -1,0 +1,6 @@
+"timing_id","signal_id","green_time","yellow_time","red_time","time_of_day"
+"1","1","30","5","45","Morning"
+"2","2","25","4","50","Afternoon"
+"3","3","35","6","40","Night"
+"4","4","20","3","55","Morning"
+"5","5","40","7","35","Afternoon"

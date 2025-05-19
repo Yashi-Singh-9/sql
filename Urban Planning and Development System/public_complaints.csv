@@ -1,0 +1,6 @@
+"complaints_id","project_id","complaint_details","submitted_by","submission_date","status"
+"1","1","Noise pollution issues reported.","Mark Taylor","2023-07-01","Under Review"
+"2","2","Traffic congestion near the mall.","Sophia Wilson","2022-08-15","Resolved"
+"3","3","Factory emissions affecting nearby areas.","Liam Brown","2024-02-05","Pending"
+"4","4","Construction debris on roads.","Emily Harris","2024-03-20","Under Investigation"
+"5","5","Lack of parking spaces in the office complex.","Jacob Martinez","2023-11-10","Resolved"

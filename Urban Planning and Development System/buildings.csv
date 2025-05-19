@@ -1,0 +1,6 @@
+"buildings_id","project_id","zone_id","building_type","floor","height"
+"1","1","1","Apartment","10","30.00"
+"2","2","2","Shopping Mall","5","20.50"
+"3","3","3","Factory","3","15.00"
+"4","4","4","Condo","25","75.00"
+"5","5","5","Office Building","15","50.00"

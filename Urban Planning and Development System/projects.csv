@@ -1,0 +1,6 @@
+"project_id","project_name","location","start_date","end_date","budget","Status"
+"1","Greenwood Heights","Downtown","2023-01-15","2025-06-20","5000000.00","Ongoing"
+"2","Sunset Plaza","Westside","2022-05-10","2024-09-15","7500000.00","Completed"
+"3","Riverside Mall","Eastside","2023-08-01","null","6000000.00","In Progress"
+"4","Skyline Towers","Uptown","2024-02-01","null","9000000.00","Ongoing"
+"5","TechPark Hub","Midtown","2021-11-25","2023-12-10","8500000.00","Completed"

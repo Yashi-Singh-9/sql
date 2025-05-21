@@ -1,0 +1,6 @@
+"employee_id","first_name","last_name","email","phone","hire_date","job_id","salary","department_id","manager_id"
+"1","John","Doe","john.doe@example.com","1234567890","2021-01-15","1","75000.00","3","null"
+"2","Alice","Smith","alice.smith@example.com","1234567891","2020-06-10","2","60000.00","1","1"
+"3","Bob","Johnson","bob.johnson@example.com","1234567892","2019-03-25","3","55000.00","2","2"
+"4","John","Doe","john.duplicate@example.com","1234567893","2022-07-20","1","75000.00","3","null"
+"5","Alice","Smith","alice.duplicate@example.com","1234567894","2023-09-10","2","60000.00","1","1"

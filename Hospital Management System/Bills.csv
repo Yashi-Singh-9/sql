@@ -1,0 +1,6 @@
+"BillID","PatientID","TotalAmount","PaymentStatus"
+"1","1","5000.00","Paid"
+"2","2","3200.50","Unpaid"
+"3","3","4500.75","Pending"
+"4","4","2700.00","Paid"
+"5","5","6000.00","Unpaid"

@@ -1,0 +1,6 @@
+"StaffID","FirstName","LastName","Role","Phone","DepartmentID"
+"1","Michael","Scott","Nurse","6667778888","1"
+"2","Dwight","Schrute","Technician","7778889999","2"
+"3","Pam","Beesly","Receptionist","8889990000","3"
+"4","Jim","Halpert","Pharmacist","9990001111","4"
+"5","Stanley","Hudson","Therapist","0001112222","5"

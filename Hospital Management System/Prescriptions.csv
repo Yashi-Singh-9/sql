@@ -1,0 +1,6 @@
+"PrescriptionID","PatientID","DoctorID","MedicationID","DosageInstructions","IssuedDate"
+"1","1","1","2","Take 1 tablet twice daily after meals","2025-02-20 09:00:00"
+"2","2","2","4","Take 1 tablet before bedtime","2025-02-21 10:30:00"
+"3","3","3","5","Take 1 capsule every 8 hours","2025-02-22 08:15:00"
+"4","4","4","1","Take 1 tablet every morning","2025-02-23 13:00:00"
+"5","5","5","3","Take 2 tablets every 6 hours","2025-02-24 15:45:00"

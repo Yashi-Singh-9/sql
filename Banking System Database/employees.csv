@@ -1,0 +1,6 @@
+"employeeid","firstname","lastname","position","salary","branchid"
+"1","Alice","Green","Manager","70000.00","1"
+"2","Bob","White","Clerk","40000.00","1"
+"3","Charlie","Black","Cashier","35000.00","2"
+"4","Diana","Blue","Loan Officer","50000.00","3"
+"5","Edward","Gray","Teller","38000.00","2"

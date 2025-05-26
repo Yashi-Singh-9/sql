@@ -1,0 +1,6 @@
+"loanid","customerid","loantype","loanamount","interestrate","loanstatus"
+"1","1","Home Loan","60000.00","5.50","Approved"
+"2","2","Car Loan","20000.00","4.20","Pending"
+"3","3","Personal Loan","55000.00","6.00","Approved"
+"4","4","Home Loan","75000.00","5.80","Approved"
+"5","5","Education Loan","30000.00","3.50","Processing"

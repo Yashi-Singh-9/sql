@@ -1,0 +1,6 @@
+"payment_id","ticket_id","payment_date","amount","payment_method"
+"1","1","2025-04-15","50.00","Credit Card"
+"2","2","2025-04-16","50.00","PayPal"
+"3","3","2025-06-01","75.00","Debit Card"
+"4","4","2025-07-10","100.00","Cash"
+"5","5","2025-08-15","120.00","Credit Card"

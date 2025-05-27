@@ -1,0 +1,6 @@
+"user_id","name","email","phone","role"
+"1","Alice Johnson","alice@example.com","1234567890","Organizer"
+"2","Bob Smith","bob@example.com","2345678901","Attendee"
+"3","Charlie Brown","charlie@example.com","3456789012","Admin"
+"4","David Miller","david@example.com","4567890123","Attendee"
+"5","Eva Green","eva@example.com","5678901234","Organizer"

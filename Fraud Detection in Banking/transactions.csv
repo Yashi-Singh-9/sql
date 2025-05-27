@@ -1,0 +1,6 @@
+"transaction_id","account_id","transaction_type","amount","transaction_date","locations","device_id"
+"1","1","Debit","500.00","2025-02-27 03:37:46.648208","New York, NY","D123"
+"2","2","Credit","1200.50","2025-02-27 03:37:46.648208","Los Angeles, CA","D234"
+"3","3","Debit","750.25","2025-02-27 03:37:46.648208","Houston, TX","D345"
+"4","4","Debit","200.00","2025-02-27 03:37:46.648208","Miami, FL","D123"
+"5","5","Credit","999.99","2025-02-27 03:37:46.648208","Seattle, WA","D567"

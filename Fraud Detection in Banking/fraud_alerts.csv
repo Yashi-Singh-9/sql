@@ -1,0 +1,6 @@
+"alert_id","transaction_id","fraud_type","alert_date","status"
+"1","1","Unusual Location","2025-02-20","Pending"
+"2","2","High Transaction Amount","2025-02-21","Resolved"
+"3","3","Frequent Small Transactions","2025-02-22","Pending"
+"4","4","Device Change","2025-02-23","Resolved"
+"5","5","Multiple Failed Attempts","2025-02-24","Pending"

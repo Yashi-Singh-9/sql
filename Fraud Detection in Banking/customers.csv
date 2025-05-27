@@ -1,0 +1,6 @@
+"customer_id","customer_name","dob","email","phone","address"
+"1","John Doe","1985-06-15","john.doe@example.com","9876543210","123 Main St, NY"
+"2","Alice Smith","1990-09-25","alice.smith@example.com","8765432109","456 Elm St, CA"
+"3","Bob Johnson","1982-12-05","bob.johnson@example.com","7654321098","789 Pine St, TX"
+"4","Emily Davis","1995-03-18","emily.davis@example.com","6543210987","321 Oak St, FL"
+"5","Michael Brown","1988-07-22","michael.brown@example.com","5432109876","654 Cedar St, WA"

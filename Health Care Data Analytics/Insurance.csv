@@ -1,0 +1,4 @@
+"insurance_id","insurance_provider","insurance_type","coverage_details"
+"1","Aetna","Gold Plan","Covers 80% of medical expenses"
+"2","Blue Cross","Silver Plan","Covers 70% of medical expenses"
+"3","Cigna","Bronze Plan","Covers 60% of medical expenses"

@@ -1,0 +1,6 @@
+"patient_id","first_name","last_name","date_of_birth","gender","contact_number","email","address","insurance_id"
+"1","John","Doe","1985-06-15","Male","1234567890","john.doe@example.com","123 Main St","1"
+"2","Jane","Smith","1992-03-25","Female","9876543210","jane.smith@example.com","456 Elm St","2"
+"3","Robert","Brown","1978-09-12","Male","5556667777","robert.brown@example.com","789 Oak St","3"
+"4","Emily","Davis","1995-11-30","Female","4445556666","emily.davis@example.com","159 Pine St","2"
+"5","Michael","Wilson","1989-08-21","Male","7778889999","michael.wilson@example.com","753 Birch St","1"

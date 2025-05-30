@@ -1,0 +1,6 @@
+"record_id","patient_id","doctor_id","diagnosis","treatment","prescription","record_date"
+"1","1","1","Hypertension","Medication & Lifestyle Change","Aspirin","2025-01-10"
+"2","2","2","Skin Rash","Topical Cream","Hydrocortisone","2025-02-12"
+"3","3","1","Migraine","Pain Management","Ibuprofen","2025-01-18"
+"4","4","3","Anxiety","Cognitive Therapy","Sertraline","2025-03-05"
+"5","5","2","Acne","Oral Antibiotics","Doxycycline","2025-03-20"

@@ -1,0 +1,6 @@
+"prescription_id","record_id","medication_id","dosage_instructions","prescription_date"
+"1","1","1","Take one tablet daily after meal","2025-01-10"
+"2","2","2","Apply cream twice a day","2025-02-12"
+"3","3","3","Take one tablet every 6 hours","2025-01-18"
+"4","4","4","Take one tablet daily in the morning","2025-03-05"
+"5","5","5","Take one capsule daily after breakfast","2025-03-20"

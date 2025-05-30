@@ -1,0 +1,4 @@
+"doctor_id","first_name","last_name","specialization","phone_number","email"
+"1","Alice","Green","Cardiologist","1112223333","alice.green@example.com"
+"2","Bob","White","Dermatologist","4445556666","bob.white@example.com"
+"3","Charlie","Black","Neurologist","7778889999","charlie.black@example.com"

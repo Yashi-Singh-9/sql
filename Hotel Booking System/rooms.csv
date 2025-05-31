@@ -1,0 +1,6 @@
+"room_id","hotel_id","room_type","price_per_night","availability"
+"1","1","Deluxe Suite","200.00","t"
+"2","2","Standard Room","120.00","t"
+"3","3","Family Room","150.00","f"
+"4","1","King Suite","250.00","t"
+"5","4","Single Room","80.00","t"

@@ -1,0 +1,6 @@
+"payment_id","booking_id","payment_date","amount","payment_method"
+"1","1","2025-03-01","800.00","Credit Card"
+"2","2","2025-03-10","750.00","Cash"
+"3","3","2025-04-05","600.00","Online"
+"4","4","2025-04-12","750.00","Debit Card"
+"5","5","2025-05-01","560.00","Credit Card"

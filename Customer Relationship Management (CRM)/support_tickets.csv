@@ -1,0 +1,6 @@
+"ticket_id","customer_id","issue_description","status","created_at"
+"1","1","Issue with laptop performance","Open","2024-02-03"
+"2","2","Smartphone battery draining fast","In Progress","2024-02-07"
+"3","3","Headphones not connecting","Resolved","2024-02-12"
+"4","4","Desk chair missing parts","Open","2024-02-17"
+"5","5","Backpack strap issue","In Progress","2024-02-22"

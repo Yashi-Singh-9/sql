@@ -1,0 +1,6 @@
+"customer_id","customer_name","email","phone","address","license_number"
+"1","Alice Johnson","alice.johnson@example.com","9876543210","123 Main St, NY","A1234567"
+"2","Bob Smith","bob.smith@example.com","8765432109","456 Elm St, CA","B2345678"
+"3","Charlie Brown","charlie.brown@example.com","7654321098","789 Pine St, TX","C3456789"
+"4","David Miller","david.miller@example.com","6543210987","321 Oak St, FL","D4567890"
+"5","Eva Davis","eva.davis@example.com","5432109876","567 Maple St, WA","E5678901"

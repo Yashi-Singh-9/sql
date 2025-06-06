@@ -1,0 +1,6 @@
+"payment_id","rental_id","payment_date","amount","payment_method","status"
+"1","1","2025-02-05","225.00","Card","Completed"
+"2","2","2025-02-10","500.00","Cash","Pending"
+"3","3","2025-02-07","100.00","Online","Completed"
+"4","4","2025-02-12","960.00","Card","Pending"
+"5","5","2025-02-06","225.00","Cash","Failed"

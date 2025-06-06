@@ -1,0 +1,6 @@
+"car_id","model","brand","year","registration_number","status","daily_rental_price"
+"1","Civic","Honda","2020","NY12345","Available","50.00"
+"2","Corolla","Toyota","2019","CA67890","Rented","45.00"
+"3","Model S","Tesla","2021","TX13579","Available","100.00"
+"4","Mustang","Ford","2018","FL24680","Under Maintenance","75.00"
+"5","X5","BMW","2022","WA98765","Rented","120.00"

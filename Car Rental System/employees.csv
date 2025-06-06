@@ -1,0 +1,6 @@
+"employee_id","employees_name","email","phone","positions","salary"
+"1","John Walker","john.walker@example.com","4321098765","Manager","5000.00"
+"2","Sophia Lopez","sophia.lopez@example.com","3210987654","Clerk","3000.00"
+"3","Michael Carter","michael.carter@example.com","2109876543","Technician","3500.00"
+"4","Olivia White","olivia.white@example.com","1098765432","Receptionist","2800.00"
+"5","Daniel Harris","daniel.harris@example.com","9876543211","Mechanic","4000.00"

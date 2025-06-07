@@ -1,0 +1,6 @@
+"log_id","tenant_id","user_id","action","timestamp"
+"1","1","1","User created project A","2025-02-28 04:02:18"
+"2","2","2","User updated project B","2025-02-28 04:02:18"
+"3","3","3","User deleted project C","2025-02-28 04:02:18"
+"4","1","4","User logged in","2025-02-28 04:02:18"
+"5","5","5","User made a payment","2025-02-28 04:02:18"

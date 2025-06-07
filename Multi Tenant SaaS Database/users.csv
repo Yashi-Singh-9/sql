@@ -1,0 +1,6 @@
+"user_id","tenant_id","email","password_hash","role","created_at"
+"1","1","user1@alpha.com","pass1hash","admin","2025-02-28 04:01:43"
+"2","2","user2@beta.com","pass2hash","user","2025-02-28 04:01:43"
+"3","3","user3@gamma.com","pass3hash","viewer","2025-02-28 04:01:43"
+"4","1","user4@alpha.com","pass4hash","user","2025-02-28 04:01:43"
+"5","5","user5@epsilon.com","pass5hash","admin","2025-02-28 04:01:43"

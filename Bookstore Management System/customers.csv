@@ -1,0 +1,6 @@
+"customer_id","customer_name","email","phone_number","address"
+"1","Alice Johnson","alice@gmail.com","123-456-7890","123 Main St, NY"
+"2","Bob Smith","bob@gmail.com","234-567-8901","456 Oak St, LA"
+"3","Charlie Brown","charlie@gmail.com","345-678-9012","789 Pine St, TX"
+"4","David Lee","david@gmail.com","456-789-0123","159 Maple St, IL"
+"5","Eve Adams","eve@gmail.com","567-890-1234","753 Birch St, FL"

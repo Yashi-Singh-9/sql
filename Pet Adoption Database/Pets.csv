@@ -1,0 +1,7 @@
+"PetID","Name","Species","Breed","Age","Gender","HealthStatus","Available"
+"1","Buddy","Dog","Labrador","2","Male","Healthy","1"
+"2","Luna","Cat","Siamese","3","Female","Vaccinated","1"
+"3","Max","Dog","Golden Retriever","4","Male","Healthy","1"
+"4","Coco","Rabbit","Holland Lop","1","Female","Healthy","1"
+"5","Bella","Dog","Beagle","2","Female","Vaccinated","1"
+"6","Lily","Dog","German Sherpherd","5","Male","Healthy","0"

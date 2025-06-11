@@ -30,6 +30,10 @@ You may also need a database management tool such as **DBeaver**, **pgAdmin**, *
 ## Contribution
 If you’d like to contribute, please refer to the [CONTRIBUTING.md](CONTRIBUTING.md) file for detailed guidelines.
 
+## Conduct
+
+Please read and follow our [Code of Conduct](./CODE_OF_CONDUCT.md) to foster a safe and welcoming environment.
+
 ## License
 This repository is open-source and available under the [MIT License](LICENSE).
 

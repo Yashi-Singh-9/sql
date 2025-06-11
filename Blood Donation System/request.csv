@@ -1,0 +1,4 @@
+"request_id","hospital_id","blood_bank_id","blood_type","quantity","request_date","status"
+"1","1","1","O+","300","2024-02-25","Pending"
+"2","2","2","A+","200","2024-03-10","Approved"
+"3","1","2","O+","400","2024-03-12","Rejected"

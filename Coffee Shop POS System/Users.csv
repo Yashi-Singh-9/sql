@@ -1,0 +1,6 @@
+"user_id","name","email","password","role"
+"1","Alice Johnson","alice@coffeeshop.com","pass123","Admin"
+"2","Bob Smith","bob@coffeeshop.com","pass123","Cashier"
+"3","Charlie Brown","charlie@coffeeshop.com","pass123","Manager"
+"4","David Green","david@coffeeshop.com","pass123","Cashier"
+"5","Emma White","emma@coffeeshop.com","pass123","Cashier"

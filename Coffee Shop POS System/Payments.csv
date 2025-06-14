@@ -1,0 +1,6 @@
+"payment_id","order_id","payment_method","payment_status","payment_date"
+"1","1","Cash","Paid","2025-02-28 08:53:05"
+"2","2","Card","Paid","2025-02-28 08:53:05"
+"3","3","Online","Pending","2025-02-28 08:53:05"
+"4","4","Cash","Paid","2025-02-28 08:53:05"
+"5","5","Card","Failed","2025-02-28 08:53:05"

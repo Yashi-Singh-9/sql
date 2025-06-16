@@ -1,0 +1,6 @@
+"CustomerID","FirstName","LastName","Email","PhoneNumber","Address","City","State","Country","ZipCode","DateJoined"
+"1","John","Doe","john.doe@email.com","1234567890","123 Elm Street","New York","NY","USA","10001","2023-01-15"
+"2","Alice","Smith","alice.smith@email.com","9876543210","456 Oak Street","Los Angeles","CA","USA","90001","2023-02-20"
+"3","Bob","Johnson","bob.johnson@email.com","1122334455","789 Pine Avenue","Chicago","IL","USA","60601","2023-03-10"
+"4","Eve","Adams","eve.adams@email.com","6677889900","321 Maple Drive","Houston","TX","USA","77001","2023-04-05"
+"5","Charlie","Brown","charlie.brown@email.com","4433221100","654 Birch Road","Miami","FL","USA","33101","2023-05-18"

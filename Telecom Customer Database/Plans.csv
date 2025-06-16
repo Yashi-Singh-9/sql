@@ -1,0 +1,6 @@
+"PlanID","PlanName","MonthlyCharge","DataLimitGB","CallMinutes","SMSLimit","PlanType"
+"1","Basic Plan","19.99","5.00","500","100","Prepaid"
+"2","Standard Plan","29.99","10.00","1000","200","Postpaid"
+"3","Premium Plan","49.99","50.00","3000","500","Postpaid"
+"4","Unlimited Plan","69.99","null","null","null","Postpaid"
+"5","Budget Plan","14.99","2.00","200","50","Prepaid"

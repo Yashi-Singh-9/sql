@@ -1,0 +1,6 @@
+"bike_id","bike_type","status","current_station_id"
+"1","Standard","Available","1"
+"2","Electric","In Use","2"
+"3","Standard","Available","3"
+"4","Electric","Under Maintenance","2"
+"5","Standard","Available","4"

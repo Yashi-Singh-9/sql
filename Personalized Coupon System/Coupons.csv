@@ -1,0 +1,6 @@
+"coupon_id","code","discount_percentage","expiry_date","minimum_order_value","status"
+"1","DISCOUNT10","10.00","2025-12-31 00:00:00","50.00","active"
+"2","SAVE20","20.00","2025-10-15 00:00:00","100.00","active"
+"3","OFF30","30.00","2024-06-01 00:00:00","200.00","expired"
+"4","BIGSALE50","50.00","2025-05-20 00:00:00","300.00","active"
+"5","WELCOME5","5.00","2026-01-01 00:00:00","20.00","active"

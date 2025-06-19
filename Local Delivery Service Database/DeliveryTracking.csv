@@ -1,0 +1,6 @@
+"trackingid","orderid","agentid","currentlocation","statusupdatetime","status"
+"1","1","1","Warehouse","2025-02-28 11:14:03.469635","Picked Up"
+"2","2","2","City Center","2025-02-28 11:14:03.469635","In Transit"
+"3","4","3","Customer Address","2025-02-28 11:14:03.469635","Delivered"
+"4","5","4","Highway Exit 7","2025-02-28 11:14:03.469635","In Transit"
+"5","2","2","Near Customer Location","2025-02-28 11:14:03.469635","Out for Delivery"

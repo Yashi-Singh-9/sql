@@ -1,0 +1,6 @@
+"EmployeeID","FirstName","LastName","Email","Phone","Position","Salary"
+"1","John","Doe","john.doe@email.com","1234567890","Cashier","35000.00"
+"2","Emma","Smith","emma.smith@email.com","2345678901","Manager","60000.00"
+"3","Liam","Brown","liam.brown@email.com","3456789012","Sales Associate","32000.00"
+"4","Olivia","Johnson","olivia.johnson@email.com","4567890123","Stock Clerk","30000.00"
+"5","Noah","Williams","noah.williams@email.com","5678901234","Cashier","34000.00"

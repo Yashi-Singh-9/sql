@@ -1,0 +1,4 @@
+"request_id","property_id","tenant_id","request_date","status","description"
+"1","1","2","2024-07-10","Pending","Leaky faucet in the kitchen"
+"2","2","2","2024-08-15","In Progress","Broken heater"
+"3","3","2","2024-09-20","Completed","Clogged sink in the bathroom"

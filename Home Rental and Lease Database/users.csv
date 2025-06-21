@@ -1,0 +1,4 @@
+"user_id","name","email","phone_number","user_type","address"
+"1","Alice Johnson","alice@example.com","123-456-7890","Landlord","123 Main St, NY"
+"2","Bob Smith","bob@example.com","987-654-3210","Tenant","456 Elm St, NY"
+"3","Charlie Brown","charlie@example.com","555-555-5555","Landlord","789 Oak St, NY"

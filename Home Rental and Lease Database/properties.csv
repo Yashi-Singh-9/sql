@@ -1,0 +1,4 @@
+"property_id","owner_id","address","city","state","zip_code","property_type","bedrooms","bathrooms","rent_amount","available_from"
+"1","1","101 Sunset Blvd","New York","NY","10001","Apartment","2","1","2000.00","2025-03-01"
+"2","1","202 Pine St","Boston","MA","02108","House","3","2","2500.00","2025-04-01"
+"3","3","303 Cedar Rd","Chicago","IL","60601","Apartment","1","1","1800.00","2025-05-01"

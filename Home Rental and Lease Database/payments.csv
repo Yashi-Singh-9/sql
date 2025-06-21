@@ -1,0 +1,4 @@
+"payment_id","lease_id","payment_date","amount","payment_method","status"
+"1","1","2024-06-05","2000.00","Bank Transfer","Successful"
+"2","2","2024-07-05","2500.00","Credit Card","Pending"
+"3","3","2024-08-05","1800.00","Cash","Successful"

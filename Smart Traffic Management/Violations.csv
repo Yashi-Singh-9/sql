@@ -1,0 +1,5 @@
+"violation_id","vehicle_id","violation_type","fine_amount","violation_time","camera_id"
+"1","1","Speeding","100.00","2025-02-28 09:00:00","1"
+"2","2","Red Light Jump","200.00","2025-02-28 09:05:00","2"
+"3","3","Wrong Lane","150.00","2025-02-28 09:10:00","3"
+"4","4","Over Speeding","120.00","2025-02-28 09:15:00","1"

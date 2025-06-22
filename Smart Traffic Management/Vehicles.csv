@@ -1,0 +1,6 @@
+"vehicle_id","plate_number","vehicle_type","owner_id"
+"1","ABC123","Car","1"
+"2","XYZ789","Truck","2"
+"3","DEF456","Motorcycle","3"
+"4","GHI101","Bus","4"
+"5","JKL321","Car","1"

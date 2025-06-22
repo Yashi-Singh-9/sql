@@ -1,0 +1,4 @@
+"emergency_id","vehicle_id","type","priority_level"
+"4","1","Ambulance","1"
+"5","2","Firetruck","2"
+"6","3","Police","3"

@@ -1,0 +1,5 @@
+"scheme_id","scheme_name","eligibility_criteria","benefit_amount"
+"1","Pension Scheme","Age > 60 and Income < 200000","5000.00"
+"2","Education Scholarship","Income < 300000 and Age < 25","25000.00"
+"3","Healthcare Benefits","Income < 250000","15000.00"
+"4","Housing Scheme","Income < 200000","100000.00"

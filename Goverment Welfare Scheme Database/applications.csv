@@ -1,0 +1,6 @@
+"application_id","citizen_id","scheme_id","application_date","status"
+"1","1","1","2025-01-05","Approved"
+"2","2","2","2025-02-10","Pending"
+"3","3","3","2025-01-20","Rejected"
+"4","4","4","2025-02-15","Approved"
+"5","5","3","2025-02-18","Approved"

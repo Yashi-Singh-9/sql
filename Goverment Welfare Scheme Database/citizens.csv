@@ -1,0 +1,6 @@
+"citizen_id","name","dob","gender","aadhar_number","address","income"
+"1","Amit Sharma","1985-07-12","Male","123456789012","Delhi, India","300000.00"
+"2","Priya Verma","1992-03-25","Female","987654321098","Mumbai, India","250000.00"
+"3","Rohit Mehra","1995-08-10","Male","456789123456","Kolkata, India","150000.00"
+"4","Neha Kapoor","1990-11-15","Female","789123456789","Chennai, India","200000.00"
+"5","Rajesh Kumar","1980-05-20","Male","321654987654","Pune, India","180000.00"

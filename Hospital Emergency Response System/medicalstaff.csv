@@ -1,0 +1,5 @@
+"staff_id","name","specialization","contact_info","hospital_id"
+"1","Dr. Allen","Cardiology","allen@hospital.com","1"
+"2","Dr. Miller","Trauma Surgery","miller@hospital.com","2"
+"3","Dr. Brown","Burn Specialist","brown@hospital.com","3"
+"4","Dr. Wilson","Neurology","wilson@hospital.com","4"

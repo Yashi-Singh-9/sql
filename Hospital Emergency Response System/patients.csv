@@ -1,0 +1,5 @@
+"patient_id","name","age","gender","contact_info","emergency_case_id"
+"1","John Doe","45","Male","1234567890","1"
+"2","Jane Smith","30","Female","9876543210","2"
+"3","Robert Johnson","50","Male","5678901234","3"
+"4","Emily Davis","25","Female","4567890123","4"

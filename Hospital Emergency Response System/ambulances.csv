@@ -1,0 +1,5 @@
+"ambulance_id","plate_number","status","hospital_id"
+"1","NY-1234","Available","1"
+"2","LA-5678","Busy","2"
+"3","CH-9101","Available","3"
+"4","TX-1122","Maintenance","4"

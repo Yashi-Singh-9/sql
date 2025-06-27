@@ -1,0 +1,3 @@
+"order_id","customer_id","order_date","status"
+"1","1","2025-04-08 08:48:38.120429","Pending"
+"2","2","2025-04-08 08:48:38.120429","Shipped"

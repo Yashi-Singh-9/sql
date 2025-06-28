@@ -1,0 +1,3 @@
+"leave_id","employee_id","leave_type","start_date","end_date","status"
+"1","3","Vacation","2025-04-15","2025-04-20","Approved"
+"2","1","Sick","2025-04-01","2025-04-03","Approved"

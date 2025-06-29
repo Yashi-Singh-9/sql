@@ -1,0 +1,4 @@
+"booking_id","passenger_id","flight_id","seat_number","booking_date","status"
+"1","1","1","12A","2025-04-08 17:30:58.260107","Confirmed"
+"2","2","2","8C","2025-04-08 17:30:58.260107","Confirmed"
+"3","3","3","5B","2025-04-08 17:30:58.260107","Confirmed"

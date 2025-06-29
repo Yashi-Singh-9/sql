@@ -1,0 +1,4 @@
+"payment_id","booking_id","amount","payment_method","payment_date","status"
+"1","1","500.00","Credit Card","2025-04-08 17:31:07.731459","Completed"
+"2","2","450.00","UPI","2025-04-08 17:31:07.731459","Completed"
+"3","3","600.00","Debit Card","2025-04-08 17:31:07.731459","Completed"

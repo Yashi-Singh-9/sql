@@ -1,0 +1,4 @@
+"appointment_id","patient_id","doctor_id","appointment_date","reason","status","created_at"
+"1","1","1","2025-05-10 10:00:00","Chest pain and shortness of breath","Scheduled","2025-04-08 18:00:39"
+"2","2","2","2025-05-11 11:30:00","Frequent headaches and dizziness","Scheduled","2025-04-08 18:00:39"
+"3","3","3","2025-05-12 09:00:00","General check-up","Scheduled","2025-04-08 18:00:39"

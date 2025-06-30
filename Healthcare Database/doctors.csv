@@ -1,0 +1,4 @@
+"doctor_id","first_name","last_name","specialty","phone","email","dept_id"
+"1","John","Doe","Cardiologist","555-1001","john.doe@hospital.com","1"
+"2","Jane","Smith","Neurologist","555-1002","jane.smith@hospital.com","2"
+"3","Emily","Brown","General Practitioner","555-1003","emily.brown@hospital.com","3"

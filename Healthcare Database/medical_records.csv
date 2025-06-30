@@ -1,0 +1,3 @@
+"record_id","patient_id","doctor_id","visit_date","diagnosis","treatment_details","notes"
+"1","1","1","2025-05-10","Mild Arrhythmia","Prescribed beta blockers","Follow-up in 2 weeks"
+"2","2","2","2025-05-11","Migraine","Advised lifestyle changes and pain relievers","Monitor headache frequency"

@@ -1,0 +1,4 @@
+"patient_id","first_name","last_name","date_of_birth","gender","phone","email","address","created_at"
+"1","Alice","Johnson","1985-06-15","Female","555-2001","alice.johnson@example.com","123 Elm St","2025-04-08 18:00:08"
+"2","Bob","Williams","1978-11-22","Male","555-2002","bob.williams@example.com","456 Maple Ave","2025-04-08 18:00:08"
+"3","Charlie","Davis","1992-02-10","Other","555-2003","charlie.davis@example.com","789 Oak Dr","2025-04-08 18:00:08"

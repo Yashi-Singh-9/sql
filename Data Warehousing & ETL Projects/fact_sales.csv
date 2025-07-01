@@ -1,0 +1,3 @@
+"sales_id","product_id","customer_id","store_id","time_id","quantity","unit_price","total_amount"
+"1","1","1","1","1","2","999.99","1999.98"
+"2","2","2","2","2","1","1299.50","1299.50"

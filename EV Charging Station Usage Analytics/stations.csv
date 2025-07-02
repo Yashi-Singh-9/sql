@@ -1,0 +1,4 @@
+"station_id","name","location","connector_type","max_kw"
+"1","Station A","Downtown LA","CCS","150"
+"2","Station B","San Francisco","CHAdeMO","100"
+"3","Station C","San Diego","Type 2","50"

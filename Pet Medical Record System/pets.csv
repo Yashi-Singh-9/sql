@@ -1,0 +1,3 @@
+"pet_id","owner_id","pet_name","species","breed","gender","birth_date"
+"1","1","Buddy","Dog","Golden Retriever","Male","2019-05-10"
+"2","2","Whiskers","Cat","Persian","Female","2020-08-23"

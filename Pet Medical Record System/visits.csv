@@ -1,0 +1,3 @@
+"visit_id","pet_id","vet_id","visit_date","reason","notes"
+"1","1","1","2024-12-01 10:30:00","Annual checkup","Healthy overall. Slight tartar buildup."
+"2","2","2","2025-01-15 14:00:00","Itchy skin","Prescribed anti-itch medication."

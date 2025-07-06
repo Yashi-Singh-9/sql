@@ -1,0 +1,3 @@
+"appointment_id","patient_id","therapist_id","appointment_date","notes"
+"1","1","1","2025-04-10 10:00:00","Initial consultation. Mild anxiety symptoms."
+"2","2","2","2025-04-11 14:30:00","Discussed recent depressive episodes."

@@ -1,0 +1,3 @@
+"assessment_id","patient_id","assessment_date","anxiety_score","depression_score","notes"
+"1","1","2025-04-10","6","3","Moderate anxiety, no depression."
+"2","2","2025-04-11","2","7","Severe depression, mild anxiety."

@@ -1,0 +1,4 @@
+"log_id","plant_id","care_type","care_date","notes"
+"1","1","watering","2025-04-09","Watered thoroughly"
+"2","2","pruning","2025-04-09","Removed yellow leaves"
+"3","3","fertilizing","2025-04-09","Used liquid fertilizer"

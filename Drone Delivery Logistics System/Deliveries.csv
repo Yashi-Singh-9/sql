@@ -1,0 +1,3 @@
+"DeliveryID","DroneID","PackageID","PilotID","RouteID","DepartureTime","ArrivalTime","DeliveryStatus"
+"1","1","1","1","1","2025-04-09 10:00:00","null","Scheduled"
+"2","3","2","2","2","2025-04-08 14:30:00","2025-04-08 14:55:00","Completed"

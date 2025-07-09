@@ -1,0 +1,4 @@
+"DroneID","DroneModel","MaxWeight","BatteryLevel","Status","LastServiceDate"
+"1","DJI Mavic Pro","5.00","100","Available","2024-12-01"
+"2","Autel Evo II","6.50","85","Maintenance","2025-01-20"
+"3","Parrot Anafi","3.50","75","In Transit","2025-03-10"

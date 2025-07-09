@@ -1,0 +1,4 @@
+"RouteID","Origin","Destination","DistanceKm","EstimatedTimeMinutes"
+"1","Warehouse A","123 River Rd","12.50","15"
+"2","Warehouse A","88 Oak St","18.00","22"
+"3","Warehouse B","42 Pine Ln","10.20","12"

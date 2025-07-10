@@ -1,0 +1,4 @@
+"accident_id","date_time","location_id","weather_condition","road_condition","accident_severity"
+"1","2024-02-28 08:30:00","1","Clear","Dry","Major"
+"2","2024-02-28 15:45:00","2","Rainy","Wet","Minor"
+"3","2024-02-28 21:10:00","3","Snowy","Icy","Fatal"

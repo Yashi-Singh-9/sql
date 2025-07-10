@@ -1,0 +1,6 @@
+"casualty_id","accident_id","severity","person_type"
+"1","1","Minor","Driver"
+"2","1","Serious","Passenger"
+"3","2","Minor","Pedestrian"
+"4","3","Fatal","Driver"
+"5","3","Serious","Passenger"

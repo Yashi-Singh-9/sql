@@ -1,0 +1,5 @@
+"vehicle_id","accident_id","vehicle_type","make","model","year","damage_severity"
+"1","1","Sedan","Toyota","Camry","2020","Moderate"
+"2","1","SUV","Honda","CR-V","2019","Severe"
+"3","2","Truck","Ford","F-150","2022","Minor"
+"4","3","Motorcycle","Yamaha","YZF-R3","2021","Severe"

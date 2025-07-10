@@ -1,0 +1,4 @@
+"accident_id","driver_id","vehicle_id","role"
+"1","1","1","At fault"
+"1","2","2","Victim"
+"2","3","3","At fault"

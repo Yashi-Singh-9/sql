@@ -1,0 +1,5 @@
+"orderid","customerid","shipmentid","orderdate","deliverydate","orderstatus"
+"1","1","1","2025-02-10","2025-03-12","Processing"
+"2","2","2","2025-02-15","2025-03-18","Shipped"
+"3","3","3","2025-02-20","2025-03-22","Delivered"
+"4","4","4","2025-02-05","2025-02-28","Delivered"

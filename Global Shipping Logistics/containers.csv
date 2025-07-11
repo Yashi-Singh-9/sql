@@ -1,0 +1,5 @@
+"containerid","containertype","weightlimit","shipid"
+"1","Refrigerated","20000.00","1"
+"2","Dry","15000.00","2"
+"3","Hazardous","18000.00","3"
+"4","Dry","16000.00","4"

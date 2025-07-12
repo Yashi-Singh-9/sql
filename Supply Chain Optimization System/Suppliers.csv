@@ -1,0 +1,5 @@
+"SupplierID","SupplierName","ContactName","Phone","Email","Address"
+"1","Global Supplies Ltd.","John Doe","+1234567890","john@globalsupplies.com","123 Supply St, NY"
+"2","Tech Distributors","Jane Smith","+9876543210","jane@techdistro.com","456 Warehouse Ave, CA"
+"3","Food & Goods Co.","Michael Brown","+1122334455","michael@foodgoods.com","789 Market Rd, TX"
+"4","Industrial Needs Inc.","Sarah White","+9988776655","sarah@industrialneeds.com","101 Factory Ln, FL"

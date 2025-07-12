@@ -1,0 +1,5 @@
+"ProductID","ProductName","SupplierID","Price","StockQuantity"
+"1","Laptop","2","1200.00","50"
+"2","Smartphone","2","800.00","100"
+"3","Rice Bag (50kg)","3","50.00","200"
+"4","Industrial Drill","4","300.00","30"

@@ -1,0 +1,6 @@
+"appointment_id","patient_id","doctor_id","appointment_date","status"
+"1","1","1","2025-03-05 10:00:00","Scheduled"
+"2","2","3","2025-03-06 14:30:00","Completed"
+"3","3","2","2025-03-07 11:00:00","Scheduled"
+"4","4","5","2025-03-08 15:00:00","Cancelled"
+"5","5","4","2025-03-09 09:00:00","Scheduled"

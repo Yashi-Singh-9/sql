@@ -1,0 +1,6 @@
+"patient_id","first_name","last_name","age","gender","contact","address"
+"1","John","Doe","30","Male","1234567890","123 Main St"
+"2","Alice","Smith","25","Female","2345678901","456 Park Ave"
+"3","Robert","Brown","40","Male","3456789012","789 Elm St"
+"4","Emma","Davis","28","Female","4567890123","321 Oak St"
+"5","Michael","Wilson","50","Male","5678901234","567 Pine St"

@@ -1,0 +1,3 @@
+"paymentid","reservationid","amount","paymentdate","paymentmethod"
+"1","1","200.00","2025-03-01 17:41:41.564776","Credit Card"
+"2","2","450.00","2025-03-01 17:41:41.564776","Cash"

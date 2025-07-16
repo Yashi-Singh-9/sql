@@ -1,0 +1,4 @@
+"customerid","firstname","lastname","email","phone","registereddate"
+"1","John","Doe","john.doe@example.com","1234567890","2025-03-01 17:41:07.801421"
+"2","Alice","Smith","alice.smith@example.com","2345678901","2025-03-01 17:41:07.801421"
+"3","Robert","Brown","robert.brown@example.com","3456789012","2025-03-01 17:41:07.801421"

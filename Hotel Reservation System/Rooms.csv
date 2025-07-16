@@ -1,0 +1,5 @@
+"roomid","roomnumber","roomtype","pricepernight","status"
+"1","101","Single","100.00","Available"
+"2","102","Double","150.00","Occupied"
+"3","103","Suite","250.00","Available"
+"4","104","Deluxe","200.00","Under Maintenance"

@@ -1,0 +1,7 @@
+"filter_id","job_id","filter_name","criteria","created_by","created_at"
+"1","1","ML Expert Filter","Must include: Python, SQL, ML","recruiter1@example.com","2025-04-08 02:53:14"
+"2","2","Java Backend Filter","Must include: Java, Spring Boot","recruiter2@example.com","2025-04-08 02:53:14"
+"3","3","Data Analyst Basic","Must include: Excel, Python","recruiter3@example.com","2025-04-08 02:53:14"
+"4","4","Frontend Essentials","Must include: React, HTML, CSS","recruiter4@example.com","2025-04-08 02:53:14"
+"5","5","DevOps Filter","Must include: Docker, Kubernetes","recruiter5@example.com","2025-04-08 02:53:14"
+"6","6","PM Profile Filter","Must include: Agile, Planning","recruiter6@example.com","2025-04-08 02:53:14"

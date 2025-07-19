@@ -1,0 +1,7 @@
+"flag_id","transaction_id","is_fraud","fraud_score","detected_at","reason"
+"1","1","f","12.50","2025-04-08 03:04:43.742656","Legit user, known IP"
+"2","2","f","30.00","2025-04-08 03:04:43.742656","High amount but verified PayPal"
+"3","3","f","8.00","2025-04-08 03:04:43.742656","Small purchase"
+"4","4","t","92.00","2025-04-08 03:04:43.742656","Suspicious location and payment method"
+"5","5","f","5.00","2025-04-08 03:04:43.742656","Low risk"
+"6","6","t","97.50","2025-04-08 03:04:43.742656","Unusual amount and foreign IP"

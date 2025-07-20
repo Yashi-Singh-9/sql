@@ -1,0 +1,7 @@
+"message_id","session_id","sender","message_text","message_time"
+"1","1","user","Hi there!","2025-04-08 03:41:16"
+"2","1","bot","Hello! How can I help you?","2025-04-08 03:41:16"
+"3","1","user","I need help with my order.","2025-04-08 03:41:16"
+"4","1","bot","Sure! What seems to be the issue?","2025-04-08 03:41:16"
+"5","2","user","What are your store hours?","2025-04-08 03:41:16"
+"6","2","bot","We are open from 9 AM to 5 PM, Monday to Friday.","2025-04-08 03:41:16"

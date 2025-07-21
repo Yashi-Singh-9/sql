@@ -1,0 +1,4 @@
+"event_id","location_id","event_type","severity","event_time","description"
+"1","3","Thunderstorm","Moderate","2024-04-07 17:00:00","Thunder and light rain reported"
+"2","1","Snowstorm","Severe","2024-01-15 06:00:00","Heavy snow with reduced visibility"
+"3","5","Typhoon","Severe","2023-10-12 22:00:00","High winds and coastal flooding"

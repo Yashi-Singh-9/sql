@@ -1,0 +1,7 @@
+"record_id","applicant_id","offense","date_of_offense","court_details","verdict"
+"1","1","Theft","2018-06-15","NY District Court - Case #4587","Guilty"
+"2","3","Assault","2020-09-22","TX Supreme Court - Case #7821","Not Guilty"
+"3","5","Fraud","2019-11-10","WA Federal Court - Case #3654","Guilty"
+"4","1","DUI","2021-04-03","NY District Court - Case #6523","Guilty"
+"5","6","Vandalism","2022-07-19","IL County Court - Case #9998","Dismissed"
+"6","null","Burglary","2017-08-30","Unknown Court - Case #1234","Pending"

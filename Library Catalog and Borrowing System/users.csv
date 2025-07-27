@@ -1,0 +1,7 @@
+"user_id","name","email","phone_number","address","user_type"
+"1","Alice Johnson","alice.johnson@example.com","9876543210","123 Main St, NY","Member"
+"2","Bob Smith","bob.smith@example.com","8765432109","456 Elm St, CA","Librarian"
+"3","Charlie Brown","charlie.brown@example.com","7654321098","789 Oak St, TX","Member"
+"4","David Wilson","david.wilson@example.com","6543210987","321 Pine St, FL","Member"
+"5","Emma Davis","emma.davis@example.com","5432109876","567 Cedar St, IL","Librarian"
+"6","Frank Thomas","frank.thomas@example.com","4321098765","890 Birch St, WA","Member"

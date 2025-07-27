@@ -1,0 +1,7 @@
+"book_id","title","author","isbn","publisher","year_published","category_id","total_copies","available_copies"
+"1","The Alchemist","Paulo Coelho","9780061122415","HarperOne","1993","1","10","7"
+"2","Sapiens","Yuval Noah Harari","9780062316097","Harper","2011","2","8","5"
+"3","A Brief History","Stephen Hawking","9780553380163","Bantam","1988","3","12","9"
+"4","The Wright Brothers","David McCullough","9781476728759","Simon & Schuster","2015","4","6","4"
+"5","Steve Jobs","Walter Isaacson","9781451648539","Simon & Schuster","2011","5","15","10"
+"6","Clean Code","Robert C. Martin","9780132350884","Prentice Hall","2008","6","5","2"

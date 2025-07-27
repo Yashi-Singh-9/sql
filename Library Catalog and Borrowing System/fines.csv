@@ -1,0 +1,7 @@
+"fine_id","user_id","borrow_id","fine_amount","fine_status"
+"1","1","5","10.00","Pending"
+"2","2","2","5.00","Paid"
+"3","3","3","7.50","Pending"
+"4","4","4","0.00","Paid"
+"5","5","5","12.00","Pending"
+"6","6","6","3.00","Paid"

@@ -1,0 +1,8 @@
+"user_id","first_name","last_name","email","password","phone_number","role"
+"1","Alice","Johnson","alice@example.com","password1","1234567890","Applicant"
+"2","Bob","Smith","bob@example.com","password2","1234567891","Reviewer"
+"3","Charlie","Brown","charlie@example.com","password3","1234567892","Admin"
+"4","David","Williams","david@example.com","password4","1234567893","Applicant"
+"5","Emma","Davis","emma@example.com","password5","1234567894","Reviewer"
+"6","Frank","Miller","frank@example.com","password6","1234567895","Applicant"
+"7","Grace","Wilson","grace@example.com","password7","1234567896","Applicant"

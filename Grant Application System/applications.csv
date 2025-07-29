@@ -1,0 +1,8 @@
+"application_id","user_id","grant_id","submission_date","status"
+"1","1","1","2025-02-01","Submitted"
+"2","4","2","2025-02-05","Under Review"
+"3","6","3","2025-02-10","Approved"
+"4","1","4","2025-02-12","Rejected"
+"5","4","5","2025-02-15","Submitted"
+"6","6","6","2025-02-18","Under Review"
+"7","7","7","2025-02-20","Submitted"

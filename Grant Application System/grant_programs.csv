@@ -1,0 +1,8 @@
+"grant_id","grant_name","description","funding_amount","application_deadline"
+"1","Tech Grant","Funding for tech startups","50000.00","2025-06-30"
+"2","Health Grant","Funding for healthcare research","75000.00","2025-07-15"
+"3","Edu Grant","Support for education programs","60000.00","2025-08-01"
+"4","Agri Grant","Funds for agricultural projects","45000.00","2025-09-10"
+"5","Energy Grant","Renewable energy support","90000.00","2025-10-05"
+"6","Infra Grant","Infrastructure development funding","120000.00","2025-11-20"
+"7","Arts Grant","Support for artists and creators","30000.00","2025-12-01"

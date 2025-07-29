@@ -1,0 +1,8 @@
+"review_id","application_id","reviewer_id","comments","rating","review_date"
+"1","1","2","Good proposal","8","2025-02-03"
+"2","2","5","Needs improvements","6","2025-02-07"
+"3","3","2","Excellent work","10","2025-02-12"
+"4","4","5","Lack of details","5","2025-02-14"
+"5","5","2","Strong case","9","2025-02-17"
+"6","6","5","Moderate proposal","7","2025-02-20"
+"7","7","2","Decent effort","8","2025-02-22"

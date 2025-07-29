@@ -1,0 +1,8 @@
+"disbursement_id","application_id","amount_disbursed","disbursement_date","payment_status"
+"1","3","60000.00","2025-02-15","Completed"
+"2","5","45000.00","2025-02-18","Pending"
+"3","1","50000.00","2025-02-20","Completed"
+"4","7","30000.00","2025-02-22","Pending"
+"5","6","120000.00","2025-02-24","Completed"
+"6","2","75000.00","2025-02-26","Completed"
+"7","4","90000.00","2025-02-28","Pending"

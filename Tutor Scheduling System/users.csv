@@ -1,0 +1,7 @@
+"user_id","name","email","password","role"
+"1","Alice Johnson","alice@example.com","password123","Tutor"
+"2","Bob Smith","bob@example.com","password456","Student"
+"3","Charlie Brown","charlie@example.com","password789","Tutor"
+"4","David White","david@example.com","password234","Student"
+"5","Eve Black","eve@example.com","password567","Tutor"
+"6","Frank Green","frank@example.com","password890","Student"

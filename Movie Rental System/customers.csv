@@ -1,0 +1,8 @@
+"customer_id","first_name","last_name","email","phone_number","address"
+"1","John","Doe","john.doe@example.com","9876543210","123 Main St"
+"2","Jane","Smith","jane.smith@example.com","9876543211","456 Oak Ave"
+"3","Robert","Brown","robert.brown@example.com","9876543212","789 Pine Rd"
+"4","Emily","Davis","emily.davis@example.com","9876543213","101 Elm Blvd"
+"5","Michael","Johnson","michael.johnson@example.com","9876543214","202 Cedar St"
+"6","Sarah","Wilson","sarah.wilson@example.com","9876543215","303 Maple Ln"
+"7","David","Martinez","david.martinez@example.com","9876543216","404 Birch Ct"

@@ -1,0 +1,8 @@
+"staff_id","name","email","phone_number","role"
+"1","Alice Green","alice.green@example.com","9876543220","Manager"
+"2","Bob White","bob.white@example.com","9876543221","Cashier"
+"3","Charlie Black","charlie.black@example.com","9876543222","Clerk"
+"4","Diana Gray","diana.gray@example.com","9876543223","Manager"
+"5","Ethan Blue","ethan.blue@example.com","9876543224","Cashier"
+"6","Fiona Red","fiona.red@example.com","9876543225","Clerk"
+"7","George Brown","george.brown@example.com","9876543226","Manager"

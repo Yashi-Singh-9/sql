@@ -1,0 +1,8 @@
+"movie_id","title","genre","release_year","rating","price_per_day","stock_quantity"
+"1","Inception","Sci-Fi","2010","9","3.50","10"
+"2","Titanic","Romance","1997","8","2.99","5"
+"3","The Matrix","Action","1999","9","3.00","8"
+"4","Avengers","Superhero","2012","9","4.00","7"
+"5","Joker","Thriller","2019","8","3.75","6"
+"6","Toy Story","Animation","1995","8","2.50","9"
+"7","Fast & Furious","Action","2001","7","3.25","12"

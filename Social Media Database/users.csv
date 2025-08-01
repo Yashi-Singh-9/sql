@@ -1,0 +1,8 @@
+"user_id","username","email","password","profile_picture","bio","created_at"
+"1","user1","user1@example.com","pass123","pic1.jpg","Bio for user1","2024-01-01"
+"2","user2","user2@example.com","pass123","pic2.jpg","Bio for user2","2024-01-02"
+"3","user3","user3@example.com","pass123","pic3.jpg","Bio for user3","2024-01-03"
+"4","user4","user4@example.com","pass123","pic4.jpg","Bio for user4","2024-01-04"
+"5","user5","user5@example.com","pass123","pic5.jpg","Bio for user5","2024-01-05"
+"6","user6","user6@example.com","pass123","pic6.jpg","Bio for user6","2024-01-06"
+"7","user7","user7@example.com","pass123","pic7.jpg","Bio for user7","2024-01-07"

@@ -1,0 +1,8 @@
+"post_id","user_id","content","image_url","created_at"
+"1","1","Post from user1","post1.jpg","2024-02-01 10:00:00"
+"2","2","Post from user2","post2.jpg","2024-02-02 11:00:00"
+"3","3","Post from user3","post3.jpg","2024-02-03 12:00:00"
+"4","4","Post from user4","post4.jpg","2024-02-04 13:00:00"
+"5","5","Post from user5","post5.jpg","2024-02-05 14:00:00"
+"6","6","Post from user6","post6.jpg","2024-02-06 15:00:00"
+"7","7","Post from user7","post7.jpg","2024-02-07 16:00:00"

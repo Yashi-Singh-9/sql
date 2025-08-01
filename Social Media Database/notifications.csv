@@ -1,0 +1,8 @@
+"notification_id","user_id","type","message","is_read","created_at"
+"1","1","Like","User2 liked your post.","0","2024-02-01 10:20:00"
+"2","2","Comment","User3 commented on your post.","1","2024-02-02 11:20:00"
+"3","3","friend_request","User4 sent you a friend request.","0","2024-02-03 12:20:00"
+"4","4","Like","User5 liked your post.","1","2024-02-04 13:20:00"
+"5","5","Comment","User6 commented on your post.","0","2024-02-05 14:20:00"
+"6","6","friend_request","User7 sent you a friend request.","1","2024-02-06 15:20:00"
+"7","7","Like","User1 liked your post.","0","2024-02-07 16:20:00"

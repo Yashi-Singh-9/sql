@@ -1,0 +1,7 @@
+"message_id","sender_id","receiver_id","message_text","timestamp"
+"1","1","2","Hi, I am interested in the project!","2024-02-01 09:30:00"
+"2","2","1","Sure! Let’s discuss further.","2024-02-01 09:45:00"
+"3","3","4","I can develop the app for you.","2024-02-02 10:30:00"
+"4","4","3","Great! When can you start?","2024-02-02 10:45:00"
+"5","5","6","I can design the logo for you.","2024-02-03 11:15:00"
+"6","6","5","Let’s discuss colors and style.","2024-02-03 11:30:00"

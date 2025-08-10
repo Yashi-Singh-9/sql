@@ -1,0 +1,7 @@
+"profile_id","user_id","bio","skills","rating","portfolio_link"
+"1","1","Web Developer with 5 years of experience","HTML, CSS","5","alice.dev"
+"2","3","Graphic Designer skilled in Adobe Suite","Photoshop","4","charlie.design"
+"3","5","Expert in mobile app development","Flutter","5","emma.app"
+"4","1","Backend Developer","Python, Django","5","alicebackend.dev"
+"5","3","UI/UX Designer","Figma","4","charlieux.design"
+"6","5","Game Developer","Unity, C#","5","emma.games"

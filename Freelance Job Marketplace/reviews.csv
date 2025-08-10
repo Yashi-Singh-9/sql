@@ -1,0 +1,7 @@
+"review_id","contract_id","reviewer_id","reviewee_id","rating","comment"
+"1","1","4","3","5","Great work on the app!"
+"2","2","4","3","4","Good game development but needs minor tweaks."
+"3","3","6","5","3","Design was okay, but needs improvement."
+"4","4","2","1","5","Amazing website development!"
+"5","5","2","1","5","E-commerce site turned out great!"
+"6","6","6","5","4","Nice banner design!"

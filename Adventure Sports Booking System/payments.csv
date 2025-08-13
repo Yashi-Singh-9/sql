@@ -1,0 +1,5 @@
+"payment_id","booking_id","amount","payment_date","payment_method","status"
+"1","1","40","2024-02-01 10:05:00","Credit Card","Successful"
+"2","3","200","2024-02-03 09:35:00","PayPal","Successful"
+"3","5","50","2024-02-05 15:10:00","Debit Card","Successful"
+"4","7","150","2024-02-07 08:05:00","Credit Card","Successful"

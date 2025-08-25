@@ -1,0 +1,8 @@
+"threat_id","threat_type","severity","forest_id"
+"8","Deforestation","High","1"
+"9","Poaching","Medium","2"
+"10","Wildfires","High","3"
+"11","Invasive Species","Low","4"
+"12","Climate Change","High","5"
+"13","Illegal Logging","Medium","1"
+"14","Pollution","Low","3"

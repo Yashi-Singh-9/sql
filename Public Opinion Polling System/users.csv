@@ -1,0 +1,6 @@
+"user_id","name","email","password","created_at"
+"1","Alice Johnson","alice@example.com","password123","2025-03-01 10:02:50.732641"
+"2","Bob Smith","bob@example.com","securepass","2025-03-01 10:02:50.732641"
+"3","Charlie Brown","charlie@example.com","pass123","2025-03-01 10:02:50.732641"
+"4","David Wilson","david@example.com","davidpass","2025-03-01 10:02:50.732641"
+"5","Emma Thomas","emma@example.com","emma123","2025-03-01 10:02:50.732641"

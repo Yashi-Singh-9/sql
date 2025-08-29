@@ -1,0 +1,6 @@
+"poll_id","title","description","created_by","start_date","end_date","status"
+"1","Favorite Programming Language","Vote for your favorite language","1","2025-03-01","2025-03-10","Active"
+"2","Best Movie of 2024","Choose the best movie released in 2024","2","2025-03-01","2025-03-15","Active"
+"3","Preferred Social Media Platform","Vote for your preferred platform","3","2025-03-01","2025-03-12","Active"
+"4","Best Car Brand","Pick your favorite car brand","4","2025-03-01","2025-03-20","Active"
+"5","Favorite Music Genre","Which music genre do you prefer?","5","2025-03-01","2025-03-25","Active"

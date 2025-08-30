@@ -1,3 +1,4 @@
+-- MS SQL Project
 CREATE DATABASE Esports_Tournament_DB;
 USE Esports_Tournament_DB;
 

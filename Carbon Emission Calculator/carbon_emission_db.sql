@@ -1,3 +1,4 @@
+-- MS SQL Project
 CREATE TABLE carbon_emission_db;
 
 -- Users Table 

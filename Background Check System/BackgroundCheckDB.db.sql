@@ -1,3 +1,4 @@
+-- SQL Lite Project
 sqlite3 BackgroundCheckDB.db
 
 -- Applicants Table 

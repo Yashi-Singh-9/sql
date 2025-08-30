@@ -1,3 +1,4 @@
+-- Maria DB Project
 -- Create Database
 CREATE DATABASE ER_Triage_System;
 USE ER_Triage_System;

@@ -1,3 +1,4 @@
+-- Project in Maria DB 
 -- Create Database
 CREATE DATABASE credit_card_fraud;
 USE credit_card_fraud;

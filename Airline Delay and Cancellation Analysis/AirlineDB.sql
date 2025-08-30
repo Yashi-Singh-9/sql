@@ -1,3 +1,5 @@
+-- MS SQL Project
+-- Create Database
 CREATE DATABASE AirlineDB;
 
 CREATE TABLE Airlines (

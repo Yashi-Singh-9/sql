@@ -1,3 +1,4 @@
+-- SQL Lite Project
 sqlite3 CybercrimeReportingDB.db
 
 -- Users Table  

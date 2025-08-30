@@ -1,3 +1,5 @@
+-- SQL Lite Project
+-- Database Creation
 sqlite3 AthletePerformanceDB.db
 
 CREATE TABLE Athletes (

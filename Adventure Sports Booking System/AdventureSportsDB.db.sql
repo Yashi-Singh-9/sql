@@ -1,3 +1,5 @@
+--SQL Lite Project
+-- Create Database
 sqlite3 AdventureSportsDB.db
 
 -- Users Table 

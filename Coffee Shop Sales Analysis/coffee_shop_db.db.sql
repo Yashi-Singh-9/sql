@@ -1,3 +1,4 @@
+-- SQL Lite Project
 sqlite3 coffee_shop_db.db
 
 -- Customers Table  

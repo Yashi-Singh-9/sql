@@ -1,3 +1,4 @@
+-- SQL Lite Project
 -- Database Creation
 sqlite3 airbnb_db.db
 

@@ -1,3 +1,4 @@
+-- MS SQL Project
 CREATE DATABASE EmergencyServiceDB;
 USE EmergencyServiceDB;
 

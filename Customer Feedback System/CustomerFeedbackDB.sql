@@ -1,3 +1,4 @@
+-- Project in MS Sql
 CREATE DATABASE CustomerFeedbackDB;
 USE CustomerFeedbackDB;
 

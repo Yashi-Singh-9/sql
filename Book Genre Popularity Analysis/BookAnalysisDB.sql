@@ -1,3 +1,4 @@
+-- Maria DB Project
 -- Create Database
 CREATE DATABASE BookAnalysisDB;
 USE BookAnalysisDB;

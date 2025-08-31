@@ -1,3 +1,4 @@
+-- SQL Lite Project
 -- Create Database for entertainment franchises
 sqlite3 entertainment_franchise.db
 

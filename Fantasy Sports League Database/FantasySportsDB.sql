@@ -1,5 +1,6 @@
-CREATE DATABASE FantasySportsDB;
-USE FantasySportsDB;
+-- MS SQL Project
+CREATE DATABASE FantasySportsDB;  -- Creation of database
+USE FantasySportsDB;   -- Switch to the database
 
 -- Users Table
 CREATE TABLE users (

@@ -1,3 +1,4 @@
+-- SQL Lite Project
 sqlite3 music_recommendation.db
 
 -- Users Table 

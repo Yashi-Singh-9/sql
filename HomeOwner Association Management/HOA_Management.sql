@@ -1,3 +1,4 @@
+-- MS SQL Project
 CREATE DATABASE HOA_Management;
 USE HOA_Management;
 

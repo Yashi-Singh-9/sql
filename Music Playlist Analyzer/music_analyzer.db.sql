@@ -1,3 +1,4 @@
+-- SQL Project
 sqlite3 music_analyzer.db
 
 USE music_analyzer;

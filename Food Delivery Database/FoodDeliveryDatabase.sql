@@ -1,3 +1,4 @@
+-- MS SQL Project
 CREATE DATABASE FoodDeliveryDatabase;
 USE FoodDeliveryDatabase;
 

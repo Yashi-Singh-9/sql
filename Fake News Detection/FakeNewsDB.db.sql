@@ -1,3 +1,5 @@
+-- SQL Lite Project
+-- Creation of database
 sqlite3 FakeNews.db
 
 -- Users Table 

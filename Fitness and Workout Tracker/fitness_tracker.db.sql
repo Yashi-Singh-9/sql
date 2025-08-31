@@ -1,3 +1,4 @@
+-- SQL Lite Project
 sqlite3 fitness_tracker.db
 
 -- Users Table 

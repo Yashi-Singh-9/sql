@@ -1,3 +1,4 @@
+-- MS SQL Project
 -- Create Database
 CREATE DATABASE OnlineStoreDB;
 

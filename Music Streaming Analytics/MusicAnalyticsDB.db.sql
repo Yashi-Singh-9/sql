@@ -1,3 +1,4 @@
+-- SQL Lite Project
 -- Music Analytics Database Creation 
 sqlite3 MusicAnalyticsDB.db
 

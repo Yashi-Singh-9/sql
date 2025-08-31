@@ -1,3 +1,4 @@
+-- MS SQL Project
 CREATE DATABASE FleetManagementDB;
 USE FleetManagementDB;
 

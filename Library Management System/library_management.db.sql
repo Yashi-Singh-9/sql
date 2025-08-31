@@ -1,3 +1,4 @@
+-- SQL Lite Project
 sqlite3 library_management.db
 
 -- Users Table 

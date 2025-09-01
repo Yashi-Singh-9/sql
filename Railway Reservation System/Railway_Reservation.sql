@@ -1,3 +1,4 @@
+-- Maria DB Project
 -- Creating the database
 CREATE DATABASE Railway_Reservation;
 USE Railway_Reservation;

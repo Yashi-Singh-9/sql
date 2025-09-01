@@ -1,3 +1,4 @@
+-- MariaDb Project
 -- Create Database
 CREATE DATABASE pharmacy_db;
 USE pharmacy_db;

@@ -1,3 +1,4 @@
+-- SQL Lite Project
 sqlite3 RestaurantDB.db
 
 -- Customers Table 

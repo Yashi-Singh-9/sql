@@ -1,3 +1,4 @@
+-- SQL Lite Project
 sqlite3 social_media_analytics.db
 
 -- Users Table

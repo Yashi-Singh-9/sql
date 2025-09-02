@@ -1,3 +1,4 @@
+-- MariaDB Project
 -- Creating the database
 CREATE DATABASE SubsidyDB;
 USE SubsidyDB;

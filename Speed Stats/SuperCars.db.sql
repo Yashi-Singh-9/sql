@@ -1,3 +1,4 @@
+-- SQL Lite Project
 -- Create Database 
 sqlite3 SuperCars.db
 

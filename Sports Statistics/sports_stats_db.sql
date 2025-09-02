@@ -1,3 +1,4 @@
+-- MS SQL Project
 CREATE DATABASE sports_stats_db 
 
 -- Teams Table

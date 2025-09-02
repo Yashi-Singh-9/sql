@@ -1,3 +1,4 @@
+-- MS SQL Project
 CREATE DATABASE smart_recipe_finder
 
 -- Users Table 

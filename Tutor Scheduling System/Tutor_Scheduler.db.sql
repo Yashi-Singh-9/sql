@@ -1,3 +1,4 @@
+-- SQL Lite Project
 sqlite3 Tutor_Scheduler.db
 
 -- Users Table  

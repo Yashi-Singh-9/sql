@@ -1,3 +1,4 @@
+-- SQL Lite Project
 sqlite3 ResearchDB.db
 
 -- Researchers Table

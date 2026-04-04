@@ -1,0 +1,22 @@
+/* 
+Instructions
+
+For this challenge you need to create a simple DISTINCT statement, you want to find all the unique ages.
+
+people table schema
+
+id
+name
+age
+
+select table schema
+
+age (distinct)
+
+NOTE: Your solution should use pure SQL. 
+*/
+
+-- SQL Query
+
+SELECT DISTINCT age
+FROM people;
